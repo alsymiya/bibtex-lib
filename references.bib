@@ -1382,10 +1382,10 @@ Cited References Count:15},
 
 }
 
-@misc{wordpress,
-   author = {Automattic Inc.},
-   title = {wordpress, \url{http://www.wordpress.com}},
-   url = {http://www.wordpress.com}
+@Misc{Inc.,
+  author = {Automattic Inc.},
+  title  = {wordpress, \url{http://www.wordpress.com}},
+  url    = {http://www.wordpress.com},
 }
 
 @article{Azariadis01,
@@ -4783,27 +4783,6 @@ Cited References Count:0},
    year = {2011}
 }
 
-@article{shrinathpurwar2017,
-   author = {Deshpande, Shrinath and Purwar, Anurag},
-   title = {A Task-driven Approach to Optimal Synthesis of Planar Four-bar Linkages for Extended Burmester Problem},
-   journal = {ASME Journal of Mechanisms and Robotics},
-   note = {10.1115/1.4037801},
-   abstract = {The classic Burmester problem is concerned with computing dimensions of planar four-bar linkages consisting of all revolute joints for five-pose problems. We define extended Burmester problem as the one where all types of planar four-bars consisting of dyads of type RR, PR, RP, or PP and their dimensions need to be computed for n-geometric-constraints, where a geometric constraint is an algebraically expressed constraint on the pose, pivots, or something equivalent. In addition, we extend it to linear, non-linear, exact and approximate constraints. This extension also includes the problems when there is no solution to the classic Burmester problem, but designers would still like to design a four-bar that may come closest to capturing their intent. Machine designers often grapple with such problems while designing linkage systems where the constraints are of different varieties and usually imprecise. In this paper, we present 1) a unified approach for solving the extended Burmester problem by showing that all linear- and non-linear constraints can be handled in a unified way without resorting to special cases, 2) in the event of no or unsatisfactory solutions to the synthesis problem certain constraints can be relaxed, and 3) such constraints can be approximately satisfied by minimizing the algebraic fitting error using Lagrange Multiplier method. We present a new algorithm, which solves new problems including optimal approximate synthesis of Burmester problem with no exact solutions.},
-   year = {2017}
-}
-
-@article{shrinath2019-jcise,
-   author = {Deshpande, Shrinath and Purwar, Anurag},
-   title = {A Machine Learning Approach to Kinematic Synthesis of Defect-Free Planar Four-Bar Linkages},
-   journal = {ASME Journal of Computing and Information Science in Engineering},
-   volume = {19},
-   number = {2},
-   pages = {021004-021004-10},
-   note = {10.1115/1.4042325},
-   abstract = {Synthesizing circuit-, branch-, or order-defects-free planar four-bar mechanism for the motion generation problem has proven to be a difficult problem. These defects render synthesized mechanisms useless to machine designers. Such defects arise from the artificial constraints of formulating the problem as a discrete precision position problem and limitations of the methods, which ignore the continuity information in the input. In this paper, we bring together diverse fields of pattern recognition, machine learning, artificial neural network, and computational kinematics to present a novel approach that solves this problem both efficiently and effectively. At the heart of this approach lies an objective function, which compares the motion as a whole thereby capturing designer's intent. In contrast to widely used structural error or loop-closure equation-based error functions, which convolute the optimization by considering shape, size, position, and orientation of the given task simultaneously, this objective function computes motion difference in a form, which is invariant to similarity transformations. We employ auto-encoder neural networks to create a compact and clustered database of invariant motions of known defect-free linkages, which serve as a good initial choice for further optimization. In spite of highly nonlinear parameters space, our approach discovers a wide pool of defect-free solutions very quickly. We show that by employing proven machine learning techniques, this work could have far-reaching consequences to creating a multitude of useful and creative conceptual design solutions for mechanism synthesis problems, which go beyond planar four-bar linkages.},
-   year = {2019}
-}
-
 @article{
    author = {Development, Eunice Kennedy Shriver National Institute of Child Help and Human},
    title = {Rehabilitative and Assistive Technology},
@@ -5466,23 +5445,11 @@ motion},
    year = {2008}
 }
 
-@techreport{ErdmanGustafson77,
-   author = {Erdman, A. and Gustafson, J.},
-   title = {LINCAGES: Linkage INteractive Computer Analysis and Graphically Enhanced Synthesis Packages,},
-   year = {1977}
-}
-
 @book{Erdman93,
    author = {Erdman, A. G.},
    title = {Modern Kinematics: Developments in the Last Forty Years},
    publisher = {J. Wiley and Sons},
    year = {1993}
-}
-
-@techreport{ErdmanGustafson77,
-   author = {Erdman, A. G. and Gustafson, J.},
-   title = {Lincages: Linkage interactive computer analysis and graphically enhanced synthesis packages},
-   year = {1977}
 }
 
 @inproceedings{ErdmanRiley,
@@ -6651,16 +6618,6 @@ placement},
    year = {1990}
 }
 
-@article{SphereVR,
-   author = {Furlong, T. and Vance, J. and Larochelle, P.},
-   title = {Spherical Mechanism Synthesis in Virtual Reality},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {121},
-   number = {4},
-   pages = {515-520},
-   year = {1999}
-}
-
 @inproceedings{Furlong98,
    author = {Furlong, T. J. and Vance, J. M. and Larochelle, P. M},
    title = {Spherical Mechanism Synthesis in Virtual Reality},
@@ -6899,55 +6856,10 @@ IEEE Engineering in Medicine and Biology Society Conference Proceedings},
    year = {1998}
 }
 
-@article{GeKang95,
-   author = {Ge, Q.J. and Kang, D.},
-   title = {Motion interpolation with G2 composite Bezier motions},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {117},
-   number = {4},
-   pages = {520-525},
-
-}
-
-@inproceedings{GeKang95,
-   author = {Ge, Q. J. and Kang, D.},
-   title = {Geometric design of smooth composite ruled surface strips using dual spherical geometry},
-   booktitle = {1995 ASME Design Automation Conference ASME DE-Vol. 82:659-664},
-
-}
-
-@article{ge95,
-   author = {Ge, Q. J. and Kang, D. L.},
-   title = {Motion interpolation with $G^2$ composite Bezier motions},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {117},
-   number = {4},
-   pages = {520-525},
-   note = {Article},
-   abstract = {This paper deals with smooth motion interpolation. It presents two geometric algorithms for synthesizing composite Bezier motions with second-order geometric continuity (G(2)). The first one is a direct algorithm for constructing a G(2) Spline motion that approximates a set of displacements; the second one is an inverse design algorithm for a G(2) Spline motion that interpolates through a set of displacements. The results are useful for computer aided motion animation, and Cartesian trajectory generation for CNC machines and robot manipulators.},
-   year = {1995}
-}
-
-@article{GeLarochelle99,
-   author = {Ge, Q. J. and Larochelle, P.},
-   title = {Algebraic motion approximation with NURBS motions and its application to spherical mechanism synthesis},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {121},
-   number = {4},
-   pages = {529-532},
-   year = {1999}
-}
-
-@article{ge99,
-   author = {Ge, Q. J. and Larochelle, P. M.},
-   title = {Algebraic motion approximation with nurbs motions and its application to spherical mechanism synthesis},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {121},
-   number = {4},
-   pages = {529-532},
-   note = {Article},
-   abstract = {In this work we bring together classical mechanism theory with recent works in the area of Computer Aided Geometric Design (CAGD), of rational motions as well as curve approximation techniques in CAGD to study the problem of mechanism motion approximation from a computational geometric viewpoint. We present a framework for approximating algebraic motions of spherical mechanisms with rational B-Spline spherical motions. Algebraic spherical motions and rational B-spline spherical motions are represented as algebraic curves and rational B-Spline curves in the space of quaternions (or the image space). Thus the problem of motion approximation is transformed into a curve approximation problem, where concepts and techniques in the field of Computer Aided Geometric Design and Computational Geometry may be applied. An example is included at the end to show how a NURBS motion can be used for synthesizing spherical four-bar linkages.},
-   year = {1999}
+@InProceedings{Ge,
+  author    = {Ge, Q. J. and Kang, D.},
+  title     = {Geometric design of smooth composite ruled surface strips using dual spherical geometry},
+  booktitle = {1995 ASME Design Automation Conference ASME DE-Vol. 82:659-664},
 }
 
 @article{GeMcCarthy91a,
@@ -7107,28 +7019,6 @@ IEEE Engineering in Medicine and Biology Society Conference Proceedings},
    publisher = {Springer-Verlag},
    pages = {101-120},
    year = {1998}
-}
-
-@article{GeSirchia99,
-   author = {Ge, Q. J. and Sirchia, M.},
-   title = {Computer aided geometric design of two-parameter freeform motion},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {121},
-   number = {4},
-   pages = {502-506},
-   year = {1999}
-}
-
-@article{GeSirchia,
-   author = {Ge, Q. J. and Sirchia, M.},
-   title = {Computer aided geometric design of two-parameter freeform motions},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {121},
-   number = {4},
-   pages = {502-506},
-   note = {Article},
-   abstract = {This paper brings together the notion of analytically defined two-parameter motion in Theoretical Kinematics and the notion of freeform surfaces in Computer Aided Geometric Design (CAGD) to develop methods for computer aided design of two-parameter freeform motions. In particular, a rational Bezier representation for two-parameter freeform motions is developed. It has been shown that the trajectory surface of such a motion is a tenser-product rational Bezier surface and that such a kinematically generated surface has a geometric as well as a kinematic control structure. The results have not only theoretical interest in CAGD and kinematics but also applications in CAD/CAM and Robotics.},
-   year = {1999}
 }
 
 @article{
@@ -9614,26 +9504,6 @@ control system synthesis},
 
 }
 
-@article{JinGe07,
-   author = {Jin, Z. and Ge, Q.J.},
-   title = {Computer aided synthesis of piecewise rational motions for planar 2R and 3R robot arms},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {129},
-   number = {10},
-   pages = {1031-1036},
-   year = {2007}
-}
-
-@article{jin-planar-2R3R,
-   author = {Jin, Zhe and Ge, Q. J.},
-   title = {Computer Aided Synthesis of Piecewise Rational Motion for Planar 2R and 3R Robot Arms},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {129},
-   number = {10},
-   pages = {1031-1036},
-   year = {2007}
-}
-
 @article{jin-planarmatrix,
    author = {Jin, Zhe and Ge, Q. J.},
    title = {Constrained Motion Interpolation for Planar Open Kinematic Chains},
@@ -10748,16 +10618,6 @@ patterns},
 
 }
 
-@article{KimNam95,
-   author = {Kim, M.-S. and Nam, K.-W.},
-   title = {Interpolating solid orientations with circular blending quaternion curve},
-   journal = {Computer Aided Design},
-   volume = {27},
-   number = {5},
-   pages = {385-398},
-   year = {1995}
-}
-
 @article{
    author = {Kim, M. H. and Yi, C. H. and Yoo, W. G. and Choi, B. R.},
    title = {EMG and kinematics analysis of the trunk and lower extremity during the sit-to-stand task while wearing shoes with different heel heights in healthy young women},
@@ -10828,20 +10688,6 @@ task},
    booktitle = {SIGGRAPH 95},
    pages = {369-376},
 
-}
-
-@article{KimNam95,
-   author = {Kim, M. S. and Nam, K. W.},
-   title = {Interpolating solid orientations with circular blending quaternion curves},
-   journal = {Computer-Aided Design},
-   volume = {27},
-   number = {5},
-   pages = {385-398},
-   abstract = {The paper presents a method to smoothly interpolate a given sequence of solid orientations using circular blending quaternion curves. Given three solid orientations, a circular quaternion curve is constructed that interpolates the three orientations. Therefore, given four orientations q(i-1), q(i), q(i+1), q(i+2), there are two circular quaternion curves C-i and C-i+1 which interpolate the triples of orientations (q(i-1), q(i), q(i+1)) and (q(i). q(i+1), q(i+2)), respectively; thus, both C-i and C-i+1 interpolate the two orientations q(i) and q(i+1). Using a method similar to the parabolic blending of Overhauser, quaternion curve Q(i)(t) is generated which interpolates two orientations q(i) and q(i+1) while smoothly blending the two circular quaternion curves C-i(t) and C-i+1(t) with a blending function f(t) of degree (2k - 1). The quaternion curve Q(i) has the same derivatives (up to order k) with C-i at q(i) and with C-i+1 at q(i+1), respectively. By connecting the quaternion curve segments Q(i) in a connected sequence, a C-k-continuous quaternion path is generated which smoothly interpolates a given sequence of solid orientations.},
-   keywords = {quaternion curves
-rotation
-curve blending},
-   year = {1995}
 }
 
 @article{KimNam96,
@@ -13196,22 +13042,6 @@ size},
    year = {2012}
 }
 
-@book{Maxwell,
-   author = {Maxwell, E. A.},
-   title = {General Homogeneous Co-ordinates in Sapce of Three Dumensions},
-   publisher = {Cambridge University Press},
-   address = {Cambridge},
-   year = {1951}
-}
-
-@book{Maxwell,
-   author = {Maxwell, E. A.},
-   title = {General Homogeneous Co-ordinates in Sapce of Three Dimensions},
-   publisher = {Cambridge University Press},
-   address = {Cambridge},
-   year = {1951}
-}
-
 @article{
    author = {Mazza, C. and Benvenuti, F. and Bimbi, C. and Stanhope, S. J.},
    title = {Association between subject functional status, seat height, and movement strategy in sit-to-stand performance},
@@ -13476,32 +13306,6 @@ dynamics
 moments
 infants},
    year = {2000}
-}
-
-@article{
-   author = {McPoil, T. G. and Cornwall, M. W. and Medoff, L. and Vicenzino, B. and Forsberg, K. and Hilz, D.},
-   title = {Arch height change during sit-to-stand: an alternative for the navicular drop test},
-   journal = {Journal of Foot and Ankle Research},
-   volume = {1},
-   note = {V19xg
-Times Cited:14
-Cited References Count:23},
-   abstract = {Background: A study was conducted to determine the reliability and validity of a new foot mobility assessment method that utilizes digital images to measure the change in dorsal arch height measured at 50% of the length of the foot during the Sit-to-Stand test.
-Methods: Two hundred - seventy five healthy participants participated in the study. The medial aspect of each foot was photographed with a digital camera while each participant stood with 50% body weight on each foot as well as in sitting for a non-weight bearing image. The dorsal arch height was measured at 50% of the total length of the foot on both weight bearing and non-weight bearing images to determine the change in dorsal arch height. The reliability and validity of the measurements were then determined.
-Results: The mean difference in dorsal arch height between non-weight bearing and weight bearing was 10 millimeters. The change in arch height during the Sit-to-Stand test was shown to have good to high levels of intra-and inter-reliability as well as validity using x-rays as the criterion measure.
-Conclusion: While the navicular drop test has been widely used as a clinical method to assess foot mobility, poor levels of inter-rater reliability have been reported. The results of the current study suggest that the change in dorsal arch height during the Sit-to-Stand test offers the clinician a reliable and valid alternative to the navicular drop test.},
-   year = {2008}
-}
-
-@article{
-   author = {McPoil, T. G. and Cornwall, M. W. and Medoff, L. and Vicenzino, B. and Fosberg, K. K. and Hilz, D.},
-   title = {Arch height change during sit-to-stand: an alternative for the navicular drop test (vol 1, pg 3, 2008)},
-   journal = {Journal of Foot and Ankle Research},
-   volume = {2},
-   note = {V19xk
-Times Cited:6
-Cited References Count:1},
-   year = {2009}
 }
 
 @misc{taiwan,
@@ -15819,24 +15623,6 @@ treadmill},
 
 }
 
-@book{Phillips84,
-   author = {Phillips, J.},
-   title = {Freedom in Machinery},
-   publisher = {Cambridge University Press},
-   address = {Cambridge},
-   volume = {1},
-   year = {1984}
-}
-
-@book{Phillips90,
-   author = {Phillips, J.},
-   title = {Freedom in Machinery},
-   publisher = {Cambridge University Press},
-   address = { Cambridge, U.K},
-   volume = {2},
-   year = {1991}
-}
-
 @article{
    author = {Piegl, L.},
    title = {Recursive algorithms for the representation of parametric curves and surfaces},
@@ -16720,14 +16506,6 @@ splines (mathematics)},
 
 }
 
-@article{PurJinGe08_2,
-   author = {Purwar, A. and Jin, Z. and Ge, Q.J., 2008},
-   title = {Rational motion interpolation under kinematic constraints of spherical 6R closed chain},
-   journal = {ASME Journal  of Mechanical Design},
-   note = {130:062301},
-   year = {2008}
-}
-
 @inproceedings{PurJinGe08_3,
    author = {Purwar, A. and Jin, Z. and Ge, Q.J},
    title = {Computer aided synthesis of rational motion under kinematic constraints of spatial SS open chains},
@@ -16742,16 +16520,6 @@ splines (mathematics)},
    booktitle = {ASME 2008 International Design Engineering Technical Conferences and
 Computers and Information in Engineering Conference},
 
-}
-
-@article{purwar-robot6Rjournal,
-   author = {Purwar, A. and Jin, Zhe and Ge, Q. J.},
-   title = {Rational Motion Interpolation Under Kinematic Constraints of Spherical 6R Closed Chains},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {130},
-   number = {6},
-   pages = {062301-1 -- 062301-9},
-   year = {2008}
 }
 
 @inproceedings{4mdsv1,
@@ -17394,20 +17162,6 @@ task},
    year = {2002}
 }
 
-@book{Reuleaux1875,
-   author = {Reuleaux, F.},
-   title = {Theoretische Kinematic},
-   publisher = {English translation by A.B.W. Kennedy, The kinematics of machinery, 1876, Reprinted Dover, 1963},
-   address = {Fridrich Vieweg, Braunschweig, Germany},
-   year = {1875}
-}
-
-@book{Reuleaux,
-   author = {Reuleaux, Franz},
-   title = {Theoretical Kinematics: Outline of a Theory of Machines},
-   year = {1875}
-}
-
 @article{
    author = {Reza, S. M. T. and Ahmad, N. and Choudhury, I. A. and Ghazilla, R. A. R.},
    title = {A Fuzzy Controller for Lower Limb Exoskeletons during Sit-to-Stand and Stand-to-Sit Movement Using Wearable Sensors},
@@ -17565,20 +17319,6 @@ trial
 individuals
 movement},
    year = {2010}
-}
-
-@article{
-   author = {Rodriguez-Juan, J. J. and Ruiz-Cardenas, D. and Cuesta-Barriuso, R. and Res, Balance Project},
-   title = {Force Determinants of Sit-to-Stand Transfer in Patients with Haemophilic Arthropathy: Cross-Sectional Study},
-   journal = {Haemophilia},
-   volume = {22},
-   pages = {34-34},
-   note = {Suppl. 2 Sp. Iss. SI
-Dj8th
-P023
-Times Cited:0
-Cited References Count:0},
-   year = {2016}
 }
 
 @article{
@@ -17851,20 +17591,6 @@ movements},
    volume = {99},
    pages = {440-448},
    year = {1977}
-}
-
-@book{
-   author = {Russell, Kevin and Shen, Qiong and Sodhi, Raj S},
-   title = {Mechanism design: visual and programmable approaches},
-   publisher = {CRC Press},
-   year = {2013}
-}
-
-@book{russel2014,
-   author = {Russell, Kevin and Shen, Qiong  and Sodhi, Raj S.},
-   title = {Mechanism Design: Visual and Programmable Approaches},
-   publisher = {CRC Press},
-   year = {2014}
 }
 
 @article{
@@ -18161,36 +17887,6 @@ Cited References Count:0},
    pages = {460-460},
    note = {Letter},
    year = {1991}
-}
-
-@article{
-   author = {Sardashti, A. and Daniali, H. M. and Varedi, S. M.},
-   title = {Optimal free-defect synthesis of four-bar linkage with joint clearance using PSO algorithm},
-   journal = {Meccanica},
-   volume = {48},
-   number = {7},
-   pages = {1681-1693},
-   note = {200io
-Times Cited:11
-Cited References Count:42},
-   abstract = {This paper presents the design of planar four-bar linkages free of order, branch and circuit defects, for the purpose of path generation, having clearances at one, two, three or all of its joints. Joint clearance is treated as a massless virtual link and its direction is known by the direction of the joint force. A Particle Swarm Optimization based algorithm is given here to solve this highly nonlinear optimization problem with some constraints, namely; the Grashof's and free of the foregoing defects conditions. An example is included in which the optimal problem is solved for different cases; namely planar four-bar linkage having clearances at one, two, three, all of the joints and without clearance. For all the designs, the generated paths, the errors and the directions of the virtual links are plotted and are compared. Finally, we compare the optimal designs with reality.},
-   keywords = {order defect
-branch defect
-circuit defect
-joint clearance
-optimal four-bar mechanism synthesis
-pso
-slider-crank mechanism
-revolute joint
-genetic algorithm
-dynamic-response
-evolutionary algorithms
-multibody systems
-planar linkages
-contact loss
-optimization
-manipulators},
-   year = {2013}
 }
 
 @article{
@@ -19481,20 +19177,6 @@ generators},
    year = {2001}
 }
 
-@book{Sommerville,
-   author = {Sommerville, D.},
-   title = {Analytical geometry of three dimensions},
-   publisher = {Cambridge University Press},
-   year = {1959}
-}
-
-@book{Sommerville,
-   author = {Sommerville, D.M.Y.},
-   title = {Analytical geometry of three dimensions},
-   publisher = {Cambridge University Press},
-   year = {1959}
-}
-
 @book{SommeseWampler,
    author = {Sommese, A.J. and Wampler, C.W.},
    title = {The Numerical Solution of Systems of Polynomials},
@@ -19680,16 +19362,6 @@ angle},
    year = {1995}
 }
 
-@article{SrinivasanGe98,
-   author = {Srinivasan, L. and Ge, Q. J.},
-   title = {Fine tuning of rational B-spline motion},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {120},
-   number = {1},
-   pages = {46-51},
-   year = {1996}
-}
-
 @article{srinivasan96,
    author = {Srinivasan, L. N. and Ge, Q. J.},
    title = {Parametric continuous and smooth motion interpolation},
@@ -19711,17 +19383,6 @@ angle},
    pages = {40-45},
    note = {Article},
    abstract = {This paper deals with the problem of designing dynamically compensated cam profiles to minimize residual vibrations in high-speed cam-follower systems. The traditional Polydyne method is modified and extended to achieve significant improvement in residual vibration characteristics. First, cam displacement curves are represented by Bernstein-Bezier harmonic curves as opposed to polynomial curves. These recently developed harmonic curves are low in harmonic content and therefore the resulting cant profiles are less prone to induce resonant vibrations in the follower system. Second, the design procedure is expanded such that the residual vibrations of the resulting cam-follower system is not only extinguished at the design speed but also made insensitive to speed variations. Numerical examples are given in the end.},
-   year = {1998}
-}
-
-@article{srinivasan98,
-   author = {Srinivasan, L. N. and Ge, Q. J.},
-   title = {Fine tuning of rational B-spline motions},
-   journal = {ASME Journal of Mechanical Design},
-   volume = {120},
-   number = {1},
-   pages = {46-51},
-   abstract = {This paper presents two algorithms for fine-tuning rational B-spline motions suitable for Computer Aided Design. The problem of fine-tuning of rational motions is studied as that of fine-tuning rational curves in a projective dual three-space, called the image curves. The path-smoothing algorithm automatically detects and smoothes out the third order geometric discontinuities in the path of a cubic rational B-spline image curve. The speed-smoothing algorithm uses a quintic rational spline image curve to obtain a second-order geometric approximation of the path of a cubic rational B-spline image curve while allowing specification of the speed and the rate of change of speed at the key points to obtain a near constant kinetic energy parameterization. The results have applications in Cartesian trajectory planning in robotics, spatial navigation in visualization and virtual reality systems, as well as mechanical system simulation.},
    year = {1998}
 }
 
@@ -22375,23 +22036,6 @@ capacity},
    year = {1998}
 }
 
-@inproceedings{Zeleznik96,
-   author = {ZELEZNIK, R. C. and HERNDON, K. P. and HUGHES, J. F.},
-   title = {Sketch: an interface for sketching 3d scenes},
-   booktitle = {SIGGRAPH 96  23rd annual conference on Computer graphics and interactive techniques},
-   pages = {163-170},
-
-}
-
-@inproceedings{Zeleznik96,
-   author = {ZELEZNIK, R. C. and HERNDON, K. P.
-HUGHES, J. F.},
-   title = {Sketch: an interface for sketching 3d scenes},
-   booktitle = {SIGGRAPH 96  23rd annual conference on Computer graphics and interactive techniques},
-   pages = {163-170},
-
-}
-
 @article{
    author = {Zeni, J. Z. and Abujaber, S. and Pozzi, F. and Marmon, A.},
    title = {Influence of Weight Bearing Visual Feedback on Movement Symmetry during Sit to Stand Task in Patients with Hip Oa},
@@ -22806,28 +22450,6 @@ eprint = {
   publisher={John Wiley \& Sons}
 }
 
-@article{furlong1999spherical,
-  title={Spherical mechanism synthesis in virtual reality},
-  author={Furlong, Todd J and Vance, Judy M and Larochelle, Pierre M},
-  journal={ASME Journal of Mechanical Design},
-  volume={121},
-  number={4},
-  pages={515--520},
-  year={1999},
-  publisher={American Society of Mechanical Engineers}
-}
-
-@article{sharma2019optimal,
-  title={An Optimal Parametrization Scheme for Path Generation Using Fourier Descriptors for Four-Bar Mechanism Synthesis},
-  author={Sharma, Shashank and Purwar, Anurag and Ge, Q Jeffrey},
-  journal={ASME Journal of Computing and Information Science in Engineering},
-  volume={19},
-  number={1},
-  pages={014501},
-  year={2019},
-  publisher={American Society of Mechanical Engineers}
-}
-
 @article{sharma2019motion,
   title={A Motion Synthesis Approach to Solving Alt-Burmester Problem by Exploiting Fourier Descriptor Relationship Between Path and Orientation Data},
   author={Sharma, Shashank and Purwar, Anurag and Ge, Q Jeffrey},
@@ -22848,17 +22470,6 @@ eprint = {
   number={1},
   pages={011003},
   year={2018},
-  publisher={American Society of Mechanical Engineers}
-}
-
-@article{deshpande2017task,
-  title={A task-driven approach to optimal synthesis of planar four-bar linkages for extended burmester problem},
-  author={Deshpande, Shrinath and Purwar, Anurag},
-  journal={ASME Journal of Mechanisms and Robotics},
-  volume={9},
-  number={6},
-  pages={061005},
-  year={2017},
   publisher={American Society of Mechanical Engineers}
 }
 
@@ -22889,18 +22500,6 @@ eprint = {
   volume={abs/1511.06434}
 }
 
-@article{shrinath2019-jcise,
-   author = {Deshpande, Shrinath and Purwar, Anurag},
-   title = {A Machine Learning Approach to Kinematic Synthesis of Defect-Free Planar Four-Bar Linkages},
-   journal = {ASME Journal of Computing and Information Science in Engineering},
-   note = {10.1115/1.4042325},
-   volume = {19},
-   number = {2},
-   pages = {021004-021004-10},
-   abstract = {},
-   year = {2019}
-}
-
 @article{kullback1951,
 author = {Kullback, S. and Leibler, R. A.},
 doi = {10.1214/aoms/1177729694},
@@ -22913,17 +22512,6 @@ title = {On Information and Sufficiency},
 url = {https://doi.org/10.1214/aoms/1177729694},
 volume = {22},
 year = {1951}
-}
-
-@article{sharma2019optimal,
-  title={An Optimal Parametrization Scheme for Path Generation Using Fourier Descriptors for Four-Bar Mechanism Synthesis},
-  author={Sharma, Shashank and Purwar, Anurag and Ge, Q Jeffrey},
-  journal={ASME Journal of Computing and Information Science in Engineering},
-  volume={19},
-  number={1},
-  pages={014501},
-  year={2019},
-  publisher={American Society of Mechanical Engineers}
 }
 
 @article{srivastava2014Dropout,
@@ -23264,17 +22852,6 @@ year = {1951}
   publisher={Elsevier}
 }
 
-@article{ren2007predictive,
-  title={Predictive modelling of human walking over a complete gait cycle},
-  author={Ren, Lei and Jones, Richard K and Howard, David},
-  journal={Journal of biomechanics},
-  volume={40},
-  number={7},
-  pages={1567--1574},
-  year={2007},
-  publisher={Elsevier}
-}
-
 @inproceedings{aertbelien2014learning,
   title={Learning a predictive model of human gait for the control of a lower-limb exoskeleton},
   author={Aertbeli{\"e}n, Erwin and De Schutter, Joris},
@@ -23293,7 +22870,6 @@ year = {1951}
   organization={IEEE}
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
 
 
  @article{khan2015,
@@ -23457,17 +23033,6 @@ year = {1951}
    publisher={Prentice hall New York}
  }
 
-@article{sardashti2013,
-   author = {Sardashti, A. and Daniali, H. M. and Varedi, S. M.},
-   title = {Optimal free-defect synthesis of four-bar linkage with joint clearance using PSO algorithm},
-   journal = {Meccanica},
-   volume = {48},
-   number = {7},
-   pages = {1681-1693},
-   abstract = {},
-   year = {2013}
-}
-
 @article{Ebrahimi2015,
    author = {Ebrahimi, S. and Payvandy, P.},
    title = {Efficient constrained synthesis of path generating four-bar mechanisms based on the heuristic optimization algorithms},
@@ -23622,3 +23187,218 @@ year = {1951}
   year={1999},
   publisher={Elsevier}
 }
+
+@Article{shrinathpurwar2017,
+  author    = {Deshpande, Shrinath and Purwar, Anurag},
+  title     = {A Task-driven Approach to Optimal Synthesis of Planar Four-bar Linkages for Extended Burmester Problem},
+  journal   = {ASME Journal of Mechanisms and Robotics},
+  year      = {2017},
+  volume    = {9},
+  number    = {6},
+  pages     = {061005},
+  note      = {10.1115/1.4037801},
+  abstract  = {The classic Burmester problem is concerned with computing dimensions of planar four-bar linkages consisting of all revolute joints for five-pose problems. We define extended Burmester problem as the one where all types of planar four-bars consisting of dyads of type RR, PR, RP, or PP and their dimensions need to be computed for n-geometric-constraints, where a geometric constraint is an algebraically expressed constraint on the pose, pivots, or something equivalent. In addition, we extend it to linear, non-linear, exact and approximate constraints. This extension also includes the problems when there is no solution to the classic Burmester problem, but designers would still like to design a four-bar that may come closest to capturing their intent. Machine designers often grapple with such problems while designing linkage systems where the constraints are of different varieties and usually imprecise. In this paper, we present 1) a unified approach for solving the extended Burmester problem by showing that all linear- and non-linear constraints can be handled in a unified way without resorting to special cases, 2) in the event of no or unsatisfactory solutions to the synthesis problem certain constraints can be relaxed, and 3) such constraints can be approximately satisfied by minimizing the algebraic fitting error using Lagrange Multiplier method. We present a new algorithm, which solves new problems including optimal approximate synthesis of Burmester problem with no exact solutions.},
+  publisher = {American Society of Mechanical Engineers},
+}
+
+@Article{Deshpande2019,
+  author   = {Deshpande, Shrinath and Purwar, Anurag},
+  title    = {A Machine Learning Approach to Kinematic Synthesis of Defect-Free Planar Four-Bar Linkages},
+  journal  = {ASME Journal of Computing and Information Science in Engineering},
+  year     = {2019},
+  volume   = {19},
+  number   = {2},
+  pages    = {021004-021004-10},
+  note     = {10.1115/1.4042325},
+  abstract = {Synthesizing circuit-, branch-, or order-defects-free planar four-bar mechanism for the motion generation problem has proven to be a difficult problem. These defects render synthesized mechanisms useless to machine designers. Such defects arise from the artificial constraints of formulating the problem as a discrete precision position problem and limitations of the methods, which ignore the continuity information in the input. In this paper, we bring together diverse fields of pattern recognition, machine learning, artificial neural network, and computational kinematics to present a novel approach that solves this problem both efficiently and effectively. At the heart of this approach lies an objective function, which compares the motion as a whole thereby capturing designer's intent. In contrast to widely used structural error or loop-closure equation-based error functions, which convolute the optimization by considering shape, size, position, and orientation of the given task simultaneously, this objective function computes motion difference in a form, which is invariant to similarity transformations. We employ auto-encoder neural networks to create a compact and clustered database of invariant motions of known defect-free linkages, which serve as a good initial choice for further optimization. In spite of highly nonlinear parameters space, our approach discovers a wide pool of defect-free solutions very quickly. We show that by employing proven machine learning techniques, this work could have far-reaching consequences to creating a multitude of useful and creative conceptual design solutions for mechanism synthesis problems, which go beyond planar four-bar linkages.},
+}
+
+@TechReport{ErdmanGustafson77,
+  author = {Erdman, A. and Gustafson, J.},
+  title  = {LINCAGES: Linkage INteractive Computer Analysis and Graphically Enhanced Synthesis Packages,},
+  year   = {1977},
+}
+
+@Article{SphereVR,
+  author    = {Furlong, T. and Vance, J. and Larochelle, P.},
+  title     = {Spherical Mechanism Synthesis in Virtual Reality},
+  journal   = {ASME Journal of Mechanical Design},
+  year      = {1999},
+  volume    = {121},
+  number    = {4},
+  pages     = {515-520},
+  publisher = {American Society of Mechanical Engineers},
+}
+
+@Article{GeKang95,
+  author   = {Ge, Q.J. and Kang, D.},
+  title    = {Motion interpolation with G2 composite Bezier motions},
+  journal  = {ASME Journal of Mechanical Design},
+  year     = {1995},
+  volume   = {117},
+  number   = {4},
+  pages    = {520-525},
+  note     = {Article},
+  abstract = {This paper deals with smooth motion interpolation. It presents two geometric algorithms for synthesizing composite Bezier motions with second-order geometric continuity (G(2)). The first one is a direct algorithm for constructing a G(2) Spline motion that approximates a set of displacements; the second one is an inverse design algorithm for a G(2) Spline motion that interpolates through a set of displacements. The results are useful for computer aided motion animation, and Cartesian trajectory generation for CNC machines and robot manipulators.},
+}
+
+@Article{GeLarochelle99,
+  author   = {Ge, Q. J. and Larochelle, P.},
+  title    = {Algebraic motion approximation with NURBS motions and its application to spherical mechanism synthesis},
+  journal  = {ASME Journal of Mechanical Design},
+  year     = {1999},
+  volume   = {121},
+  number   = {4},
+  pages    = {529-532},
+  note     = {Article},
+  abstract = {In this work we bring together classical mechanism theory with recent works in the area of Computer Aided Geometric Design (CAGD), of rational motions as well as curve approximation techniques in CAGD to study the problem of mechanism motion approximation from a computational geometric viewpoint. We present a framework for approximating algebraic motions of spherical mechanisms with rational B-Spline spherical motions. Algebraic spherical motions and rational B-spline spherical motions are represented as algebraic curves and rational B-Spline curves in the space of quaternions (or the image space). Thus the problem of motion approximation is transformed into a curve approximation problem, where concepts and techniques in the field of Computer Aided Geometric Design and Computational Geometry may be applied. An example is included at the end to show how a NURBS motion can be used for synthesizing spherical four-bar linkages.},
+}
+
+@Article{GeSirchia99,
+  author   = {Ge, Q. J. and Sirchia, M.},
+  title    = {Computer aided geometric design of two-parameter freeform motion},
+  journal  = {ASME Journal of Mechanical Design},
+  year     = {1999},
+  volume   = {121},
+  number   = {4},
+  pages    = {502-506},
+  note     = {Article},
+  abstract = {This paper brings together the notion of analytically defined two-parameter motion in Theoretical Kinematics and the notion of freeform surfaces in Computer Aided Geometric Design (CAGD) to develop methods for computer aided design of two-parameter freeform motions. In particular, a rational Bezier representation for two-parameter freeform motions is developed. It has been shown that the trajectory surface of such a motion is a tenser-product rational Bezier surface and that such a kinematically generated surface has a geometric as well as a kinematic control structure. The results have not only theoretical interest in CAGD and kinematics but also applications in CAD/CAM and Robotics.},
+}
+
+@Article{JinGe07,
+  author  = {Jin, Z. and Ge, Q.J.},
+  title   = {Computer aided synthesis of piecewise rational motions for planar 2R and 3R robot arms},
+  journal = {ASME Journal of Mechanical Design},
+  year    = {2007},
+  volume  = {129},
+  number  = {10},
+  pages   = {1031-1036},
+}
+
+@Article{KimNam95,
+  author   = {Kim, M.-S. and Nam, K.-W.},
+  title    = {Interpolating solid orientations with circular blending quaternion curve},
+  journal  = {Computer Aided Design},
+  year     = {1995},
+  volume   = {27},
+  number   = {5},
+  pages    = {385-398},
+  abstract = {The paper presents a method to smoothly interpolate a given sequence of solid orientations using circular blending quaternion curves. Given three solid orientations, a circular quaternion curve is constructed that interpolates the three orientations. Therefore, given four orientations q(i-1), q(i), q(i+1), q(i+2), there are two circular quaternion curves C-i and C-i+1 which interpolate the triples of orientations (q(i-1), q(i), q(i+1)) and (q(i). q(i+1), q(i+2)), respectively; thus, both C-i and C-i+1 interpolate the two orientations q(i) and q(i+1). Using a method similar to the parabolic blending of Overhauser, quaternion curve Q(i)(t) is generated which interpolates two orientations q(i) and q(i+1) while smoothly blending the two circular quaternion curves C-i(t) and C-i+1(t) with a blending function f(t) of degree (2k - 1). The quaternion curve Q(i) has the same derivatives (up to order k) with C-i at q(i) and with C-i+1 at q(i+1), respectively. By connecting the quaternion curve segments Q(i) in a connected sequence, a C-k-continuous quaternion path is generated which smoothly interpolates a given sequence of solid orientations.},
+  keywords = {quaternion curves rotation curve blending},
+}
+
+@Book{Maxwell,
+  title     = {General Homogeneous Co-ordinates in Sapce of Three Dumensions},
+  publisher = {Cambridge University Press},
+  year      = {1951},
+  author    = {Maxwell, E. A.},
+  address   = {Cambridge},
+}
+
+@Article{,
+  author   = {McPoil, T. G. and Cornwall, M. W. and Medoff, L. and Vicenzino, B. and Forsberg, K. and Hilz, D.},
+  title    = {Arch height change during sit-to-stand: an alternative for the navicular drop test},
+  journal  = {Journal of Foot and Ankle Research},
+  year     = {2008},
+  volume   = {1},
+  note     = {V19xg Times Cited:14 Cited References Count:23},
+  abstract = {Background: A study was conducted to determine the reliability and validity of a new foot mobility assessment method that utilizes digital images to measure the change in dorsal arch height measured at 50% of the length of the foot during the Sit-to-Stand test.
+Methods: Two hundred - seventy five healthy participants participated in the study. The medial aspect of each foot was photographed with a digital camera while each participant stood with 50% body weight on each foot as well as in sitting for a non-weight bearing image. The dorsal arch height was measured at 50% of the total length of the foot on both weight bearing and non-weight bearing images to determine the change in dorsal arch height. The reliability and validity of the measurements were then determined.
+Results: The mean difference in dorsal arch height between non-weight bearing and weight bearing was 10 millimeters. The change in arch height during the Sit-to-Stand test was shown to have good to high levels of intra-and inter-reliability as well as validity using x-rays as the criterion measure.
+Conclusion: While the navicular drop test has been widely used as a clinical method to assess foot mobility, poor levels of inter-rater reliability have been reported. The results of the current study suggest that the change in dorsal arch height during the Sit-to-Stand test offers the clinician a reliable and valid alternative to the navicular drop test.},
+}
+
+@Book{Phillips84,
+  title     = {Freedom in Machinery},
+  publisher = {Cambridge University Press},
+  year      = {1984},
+  author    = {Phillips, J.},
+  volume    = {1},
+  address   = {Cambridge},
+}
+
+@Article{PurJinGe08_2,
+  author  = {Purwar, A. and Jin, Z. and Ge, Q.J., 2008},
+  title   = {Rational motion interpolation under kinematic constraints of spherical 6R closed chain},
+  journal = {ASME Journal of Mechanical Design},
+  year    = {2008},
+  volume  = {130},
+  number  = {6},
+  pages   = {062301-1 -- 062301-9},
+  note    = {130:062301},
+}
+
+@Book{Reuleaux1875,
+  title     = {Theoretische Kinematic},
+  publisher = {English translation by A.B.W. Kennedy, The kinematics of machinery, 1876, Reprinted Dover, 1963},
+  year      = {1875},
+  author    = {Reuleaux, F.},
+  address   = {Fridrich Vieweg, Braunschweig, Germany},
+}
+
+@Book{russel2014,
+  title     = {Mechanism design: visual and programmable approaches},
+  publisher = {CRC Press},
+  year      = {2013},
+  author    = {Russell, Kevin and Shen, Qiong and Sodhi, Raj S},
+}
+
+@Article{sardashti2013,
+  author   = {Sardashti, A. and Daniali, H. M. and Varedi, S. M.},
+  title    = {Optimal free-defect synthesis of four-bar linkage with joint clearance using PSO algorithm},
+  journal  = {Meccanica},
+  year     = {2013},
+  volume   = {48},
+  number   = {7},
+  pages    = {1681-1693},
+  note     = {200io Times Cited:11 Cited References Count:42},
+  abstract = {This paper presents the design of planar four-bar linkages free of order, branch and circuit defects, for the purpose of path generation, having clearances at one, two, three or all of its joints. Joint clearance is treated as a massless virtual link and its direction is known by the direction of the joint force. A Particle Swarm Optimization based algorithm is given here to solve this highly nonlinear optimization problem with some constraints, namely; the Grashof's and free of the foregoing defects conditions. An example is included in which the optimal problem is solved for different cases; namely planar four-bar linkage having clearances at one, two, three, all of the joints and without clearance. For all the designs, the generated paths, the errors and the directions of the virtual links are plotted and are compared. Finally, we compare the optimal designs with reality.},
+  keywords = {order defect branch defect circuit defect joint clearance optimal four-bar mechanism synthesis pso slider-crank mechanism revolute joint genetic algorithm dynamic-response evolutionary algorithms multibody systems planar linkages contact loss optimization manipulators},
+}
+
+@Book{Sommerville,
+  title     = {Analytical geometry of three dimensions},
+  publisher = {Cambridge University Press},
+  year      = {1959},
+  author    = {Sommerville, D.},
+}
+
+@Article{SrinivasanGe98,
+  author   = {Srinivasan, L. and Ge, Q. J.},
+  title    = {Fine tuning of rational B-spline motion},
+  journal  = {ASME Journal of Mechanical Design},
+  year     = {1996},
+  volume   = {120},
+  number   = {1},
+  pages    = {46-51},
+  abstract = {This paper presents two algorithms for fine-tuning rational B-spline motions suitable for Computer Aided Design. The problem of fine-tuning of rational motions is studied as that of fine-tuning rational curves in a projective dual three-space, called the image curves. The path-smoothing algorithm automatically detects and smoothes out the third order geometric discontinuities in the path of a cubic rational B-spline image curve. The speed-smoothing algorithm uses a quintic rational spline image curve to obtain a second-order geometric approximation of the path of a cubic rational B-spline image curve while allowing specification of the speed and the rate of change of speed at the key points to obtain a near constant kinetic energy parameterization. The results have applications in Cartesian trajectory planning in robotics, spatial navigation in visualization and virtual reality systems, as well as mechanical system simulation.},
+}
+
+@InProceedings{Zeleznik96,
+  author    = {ZELEZNIK, R. C. and HERNDON, K. P. and HUGHES, J. F.},
+  title     = {Sketch: an interface for sketching 3d scenes},
+  booktitle = {SIGGRAPH 96 23rd annual conference on Computer graphics and interactive techniques},
+  pages     = {163-170},
+}
+
+@Article{sharma2019optimal,
+  author    = {Sharma, Shashank and Purwar, Anurag and Ge, Q Jeffrey},
+  title     = {An Optimal Parametrization Scheme for Path Generation Using Fourier Descriptors for Four-Bar Mechanism Synthesis},
+  journal   = {ASME Journal of Computing and Information Science in Engineering},
+  year      = {2019},
+  volume    = {19},
+  number    = {1},
+  pages     = {014501},
+  publisher = {American Society of Mechanical Engineers},
+}
+
+@Misc{Zamora-Esquivel,
+  author        = {J. Zamora-Esquivel and E. Bayro-Corrochano},
+  title         = {Kinematics and grasping using conformal geometric algebra},
+  __markedentry = {[purwar:6]},
+  doi           = {10.1007/978-1-4020-4941-5_51},
+  pages         = {473-480},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
