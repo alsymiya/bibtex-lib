@@ -17954,7 +17954,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 @Article{loya-jcise,
   author  = {Loya, Amol and Deshpande, Shrinath and Purwar, Anurag},
   title   = {Machine Learning Driven Individualized Gait Rehabilitation: Classification, Prediction, and Mechanism Design},
-  journal = {ASME Journal of Engineering and Science in Medical Diagnostics and Therapy},
+  journal = {AJournal of Engineering and Science in Medical Diagnostics and Therapy},
   year    = {2020},
   volume  = {3},
   month   = {02},
