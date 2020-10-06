@@ -2,8 +2,13 @@
 A repository to manage .bibtex References
 
 ## Instruction for Windows User
-Download GitHub Desktop app from [https://desktop.github.com/](https://desktop.github.com/)
+1. Download GitHub Desktop app from [https://desktop.github.com/](https://desktop.github.com/)
+2. Download JabRef from https://www.jabref.org/ JabRef is an open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef works well on Linux and Mac OSX as well.
 
+### Instructions for JabRef user
+Use JabRef to manage (create/copy/edit/delete) references. This would be saved in a .bibtex file. Use Github to pull and push references.
+
+### Instructions for GitHub Desktop user
 Click on the Open In Desktop button as shown in ![image](inst.png)
 
 
