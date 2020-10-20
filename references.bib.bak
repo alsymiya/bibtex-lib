@@ -17972,6 +17972,434 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   publisher = {{ASME} International},
 }
 
+@Article{AlbertKim05,
+  author       = {Albert Rizzo and Gerard Jounghyun Kim},
+  title        = {A SWOT Analysis of the Field of Virtual Reality Rehabilitation and Therapy},
+  year         = {2005},
+  issn         = {1054-7460},
+  pages        = {119--146},
+  volume       = {14},
+  abstract     = {The use of virtual-reality technology in the areas of rehabilitation and therapy continues to grow, with encouraging results being reported for applications that address human physical, cognitive, and psychological functioning. This article presents a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis for the field of VR rehabilitation and therapy. The SWOT analysis is a commonly employed framework in the business world for analyzing the factors that influence a company's competitive position in the marketplace with an eye to the future. However, the SWOT framework can also be usefully applied outside of the pure business domain. A quick check on the Internet will turn up SWOT analyses for urban-renewal projects, career planning, website design, youth sports programs, and evaluation of academic research centers, and it becomes obvious that it can be usefully applied to assess and guide any organized human endeavor designed to accomplish a mission. It is hoped that this structured examination of the factors relevant to the current and future status of VR rehabilitation will provide a good overview of the key issues and concerns that are relevant for understanding and advancing this vital application area.},
+  date         = {April 2005},
+  doi          = {10.1162/1054746053967094},
+  file         = {:https\://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6788776:PDF},
+  issue        = {2},
+  journaltitle = {Presence},
+  publisher    = {MITP},
+}
+
+@InProceedings{Yamanoor2017,
+  author          = {Narasimha Saii Yamanoor and Srihari Yamanoor},
+  title           = {High quality, low cost education with the Raspberry Pi},
+  year            = {2017},
+  pages           = {1--5},
+  publisher       = {IEEE},
+  abstract        = {The Raspberry Pi Single Board Computer (SBC) family has gained popularity in diverse areas, while education remains to be the fundamental driver behind the design. Low cost kits are provided, specifically for education, by the Raspberry Pi Foundation in conjunction with Google. These kits and modifications for optimal educational outcomes, and an enriched experience will be briefly discussed. The tutorial will consist of examples of projects and code samples that can be quickly adapted for various learning situations. A hardware list or BOM, populated and optimized for cost and effective learning will be provided. The Raspberry Pi family and Arduino Family can also be used for education, as alternates, or in combination with the Raspberry Pi Zero and the differences will be highlighted and discussed. Numerous, continuously evolving web resources as well as crowdfunded hardware implementations are available, and the method of adapting them into educational settings will be briefly discussed.},
+  date            = {19-22 Oct. 2017},
+  doi             = {10.1109/GHTC.2017.8239274},
+  eventdate       = {19-22 Oct. 2017},
+  eventtitleaddon = {San Jose, CA},
+  file            = {:https\://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8239274:PDF},
+  isbn            = {978-1-5090-6047-4},
+  journaltitle    = {2017 IEEE Global Humanitarian Technology Conference (GHTC)},
+  keywords        = {Conferences, Programming profession, STEM, Light emitting diodes, Tutorials, Single Board Computers (SBC), Raspberry Pi, Raspberry Pi Zero, Education, Low Cost Kits, Arduino},
+  location        = {San Jose, CA},
+}
+
+@Misc{Wikipedia2017,
+  author = {Wikipedia},
+  note   = {{[Online]}},
+  title  = {Human-computer interaction --- Wikipedia{,} The Free Encyclopedia},
+  year   = {2017},
+  url    = {https://en.wikipedia.org/w/index.php?title=Human%E2%80%93computer_interaction&oldid=791784316},
+}
+
+@Misc{Wikipedia2017a,
+  author = {Wikipedia},
+  note   = {[Online]},
+  title  = {Newton's method in optimization --- Wikipedia{,} The Free Encyclopedia},
+  year   = {2017},
+  url    = {https://en.wikipedia.org/w/index.php?title=Newton%27s_method_in_optimization&oldid=794151103},
+}
+
+@Book{Wickens2004,
+  author    = {Christopher Wickens and John Lee and Yili Liu and Sallie Becker},
+  publisher = {Pearson Prentice Hall},
+  title     = {An Introduction to Human Factors Engineering. Second ed.},
+  year      = {2004},
+  pages     = {185–193},
+}
+
+@Misc{Okabe,
+  author = {Masataka Okabe and Kei Ito},
+  title  = {Color Universal Design},
+  url    = {http://jfly.iam.u-tokyo.ac.jp/color/},
+}
+
+@Misc{Jenny,
+  author = {Bernie Jenny},
+  title  = {Color Oracle},
+  url    = {http://colororacle.org/index.html},
+}
+
+@Misc{Wikipedia2017b,
+  author = {Wikipedia},
+  note   = {{[Online]}},
+  title  = {Kinematic chain --- Wikipedia{,} The Free Encyclopedia},
+  year   = {2017},
+  url    = {https://en.wikipedia.org/w/index.php?title=Kinematic_chain&oldid=786131978},
+}
+
+@Misc{W3C,
+  author = {W3C},
+  title  = {HTML 5},
+  url    = {http://www.w3.org/TR/html51/},
+}
+
+@Misc{W3Ca,
+  author = {W3C},
+  title  = {CSS 3},
+  url    = {http://www.w3.org/Style/CSS/},
+}
+
+@Misc{W3Cb,
+  author = {W3C},
+  title  = {JavaScript},
+  url    = {http://www.w3.org/standards/webdesign/script},
+}
+
+@Misc{Mozilla,
+  author = {Mozilla},
+  title  = {Using Web Workers},
+  url    = {https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers},
+}
+
+@Misc{Wikipedia,
+  author        = {Wikipedia},
+  title         = {Android (operating system) --- {W}ikipedia{,} the free encyclopedia},
+  date-added    = {2015-08-09 04:12:44 +0000},
+  date-modified = {2015-08-09 04:21:43 +0000},
+  url           = {https://en.wikipedia.org/wiki/Android_(operating_system)},
+}
+
+@Misc{Foundation,
+  author = {The Apache Software Foundation},
+  title  = {Cordova},
+  url    = {http://cordova.apache.org/docs/en/5.0.0/guide_overview_index.md.html#Overview},
+}
+
+@Misc{Foundationa,
+  author = {The Apache Software Foundation},
+  title  = {ASF},
+  url    = {http://www.apache.org/foundation/},
+}
+
+@Misc{Inc.b,
+  author = {Adobe Systems Inc.},
+  title  = {PhoneGap},
+  url    = {http://phonegap.com/about/},
+}
+
+@Misc{Wikipediaa,
+  author = {Wikipedia},
+  title  = {jQuery --- Wikipedia, the free encyclopedia},
+  url    = {https://en.wikipedia.org/wiki/JQuery},
+}
+
+@Misc{Foundationb,
+  author = {{The jQuery Foundation}},
+  title  = {jQuery},
+  url    = {http://learn.jquery.com/about-jquery/},
+}
+
+@Misc{DAAC,
+  author = {{Dan Abramov and Andrew Clark}},
+  title  = {Redux},
+  url    = {https://redux.js.org/},
+}
+
+@Misc{Facebook,
+  author = {{Facebook and community}},
+  title  = {React},
+  url    = {https://reactjs.org/},
+}
+
+@Misc{NodejsFoundation,
+  author = {{The Nodejs Foundation}},
+  title  = {Node.js},
+  url    = {https://nodejs.org/en/about/},
+}
+
+@Misc{NodejsFoundationa,
+  author = {{The Nodejs Foundation}},
+  title  = {Express},
+  url    = {https://expressjs.com/},
+}
+
+@Misc{,
+  author = {{npm Inc.}},
+  title  = {npm},
+  url    = {https://www.npmjs.com/about},
+}
+
+@Misc{Tangelder,
+  author = {Tangelder, J},
+  title  = {Hammer JS},
+  url    = {http://hammerjs.github.io/},
+}
+
+@Misc{Apache,
+  author = {Apache},
+  title  = {cordova-plugin-file},
+  url    = {https://github.com/apache/cordova-plugin-file},
+}
+
+@Misc{Apachea,
+  author = {Apache},
+  title  = {cordova-plugin-camera},
+  url    = {https://github.com/apache/cordova-plugin-camera},
+}
+
+@Misc{Katzer,
+  author = {Katzer},
+  title  = {cordova-plugin-email-composer},
+  url    = {https://github.com/katzer/cordova-plugin-email-composer},
+}
+
+@Misc{Pwlin,
+  author = {Pwlin},
+  title  = {cordova-plugin-file-opener2},
+  url    = {https://github.com/pwlin/cordova-plugin-file-opener2},
+}
+
+@Misc{Chaudhary,
+  author = {Gautam Chaudhary},
+  title  = {Asset2SD},
+  url    = {https://github.com/gkcgautam/Asset2SD},
+}
+
+@Misc{Loisel,
+  author = {S{\'e}bastien Loisel},
+  title  = {Numeric Javascript},
+  url    = {http://www.numericjs.com/},
+}
+
+@Misc{Mclaughlin,
+  author = {Michael Mclaughlin},
+  title  = {Decimal JS},
+  url    = {http://mikemcl.github.io/decimal.js/},
+}
+
+@Misc{Lathoud,
+  author = {Guillaume Lathoud},
+  title  = {Complex},
+  url    = {https://github.com/glathoud/js.quartic/blob/master/complex.js},
+}
+
+@Misc{Lathouda,
+  author = {Guillaume Lathoud},
+  title  = {JS Quartic},
+  url    = {https://github.com/glathoud/js.quartic/blob/master/solve_quartic.js},
+}
+
+@Misc{MrRio,
+  author = {MrRio},
+  title  = {jsPDF},
+  url    = {https://github.com/MrRio/jsPDF},
+}
+
+@Misc{MrRioa,
+  author = {MrRio},
+  title  = {jsPDF Image Plugin},
+  url    = {https://github.com/MrRio/jsPDF/blob/master/plugins/addimage.js},
+}
+
+@Misc{W3Cc,
+  author = {W3C},
+  title  = {File API},
+  url    = {http://www.w3.org/TR/FileAPI/},
+}
+
+@Misc{Verbruggen,
+  author = {Eddy Verbruggen},
+  title  = {SocialSharing-PhoneGap-Plugin},
+  url    = {https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin},
+}
+
+@Misc{Kwok,
+  author = {Kevin Kwok},
+  title  = {jsgif},
+  url    = {https://github.com/antimatter15/jsgif},
+}
+
+@Misc{Jong,
+  author = {Jos de Jong},
+  title  = {Math.js},
+  url    = {http://mathjs.org/index.html},
+}
+
+@Article{Wu2011,
+  author    = {Wu, Jun and Ge, Q. J. and Gao, Feng and Guo, W. Z.},
+  journal   = {Journal of Mechanisms and Robotics},
+  title     = {On the Extension of a Fourier Descriptor Based Method for Planar Four-Bar Linkage Synthesis for Generation of Open and Closed Paths},
+  year      = {2011},
+  issn      = {1942-4302},
+  month     = {Jul},
+  number    = {3},
+  pages     = {031002-031002-8},
+  volume    = {3},
+  day       = {12},
+  doi       = {10.1115/1.4004227},
+  publisher = {ASME},
+  url       = {http://dx.doi.org/10.1115/1.4004227},
+}
+	
+}
+
+@Article{Liu2017,
+  author    = {Liu, Yang and Michael McCarthy, J.},
+  journal   = {Journal of Mechanisms and Robotics},
+  title     = {Design of Mechanisms to Draw Trigonometric Plane Curves},
+  year      = {2017},
+  issn      = {1942-4302},
+  month     = {Mar},
+  number    = {2},
+  pages     = {024503-024503-8},
+  volume    = {9},
+  day       = {09},
+  doi       = {10.1115/1.4035882},
+  publisher = {ASME},
+  url       = {http://dx.doi.org/10.1115/1.4035882},
+}
+
+@Article{Ge2017,
+  author    = {Ge, QJ and Purwar, Anurag and Zhao, Ping and Deshpande, Shrinath},
+  journal   = {Journal of Computing and Information Science in Engineering},
+  title     = {A Task-Driven Approach to Unified Synthesis of Planar Four-Bar Linkages Using Algebraic Fitting of a Pencil of G-Manifolds},
+  year      = {2017},
+  number    = {3},
+  pages     = {031011},
+  volume    = {17},
+  publisher = {American Society of Mechanical Engineers},
+}
+@Article{Dhingra1999,
+	author={Dhingra, A. K.
+	and Almadi, A. N.
+	and Kohli, D.},
+	title={A Gr\"{o}bner-Sylvester  Hybrid Method for Closed-Form Displacement Analysis of Mechanisms},
+	journal={Journal of Mechanical Design},
+	year={1999},
+	month={Aug},
+	day={01},
+	publisher={ASME},
+	volume={122},
+	number={4},
+	pages={431-438},
+	doi={10.1115/1.1290395},
+	url={http://dx.doi.org/10.1115/1.1290395}
+}
+@Article{Wampler2000,
+	author={Wampler, Charles W.},
+	title={Solving the Kinematics of Planar Mechanisms by Dixon Determinant and a Complex-Plane Formulation},
+	journal={Journal of Mechanical Design},
+	year={2000},
+	month={Jul},
+	day={01},
+	publisher={ASME},
+	volume={123},
+	number={3},
+	pages={382-387},
+	issn={1050-0472},
+	doi={10.1115/1.1372192},
+	url={http://dx.doi.org/10.1115/1.1372192}
+}
+@Misc{Radhakrishnan2012,
+	author={Radhakrishnan, Pradeep
+	and Campbell, Matthew I.},
+	title={An Automated Kinematic Analysis Tool for Computationally Synthesizing Planar Mechanisms},
+	year={2012},
+	number={45035},
+	pages={1553-1562},
+	doi={10.1115/DETC2012-70737},
+	url={http://dx.doi.org/10.1115/DETC2012-70737}
+}
+
+@Article{Hernandez2004,
+  author  = {A. Hernández and V. Petuya},
+  journal = {Mechanism and Machine Theory},
+  title   = {Position analysis of planar mechanisms with R-pairs using a geometrical–iterative method},
+  year    = {2004},
+  issn    = {0094-114X},
+  number  = {2},
+  pages   = {133 - 152},
+  volume  = {39},
+  doi     = {http://dx.doi.org/10.1016/S0094-114X(03)00110-1},
+  url     = {http://www.sciencedirect.com/science/article/pii/S0094114X03001101},
+}
+{mechit,
+	author = {Dassault Systems},
+	title = {Mech It},
+	url = {https://www.swappsforkids.com/apps/mech-it/}
+	year = {2019}
+}
+
+@Article{Kim2018,
+  author  = {Han-Jong Kim and Yunwoo Jeong and Ju-Whan Kim and Tek-Jin Nam},
+  journal = {Advances in Mechanical Engineering},
+  title   = {A prototyping tool for kinetic mechanism design and fabrication: Developing and deploying M.Sketch for science, technology, engineering, the arts, and mathematics education},
+  year    = {2018},
+  number  = {12},
+  pages   = {1687814018804104},
+  volume  = {10},
+  doi     = {10.1177/1687814018804104},
+  eprint  = {https://doi.org/10.1177/1687814018804104},
+  url     = {https://doi.org/10.1177/1687814018804104},
+}
+
+@Misc{Inc2008,
+  author    = {Autodesk Inc},
+  title     = {Force Effect Motion},
+  year      = {2008},
+  publisher = {Autodesk Inc},
+}
+
+@Misc{Engineeringa,
+  author = {Artas Engineering},
+  title  = {SAM (Synthesis and Analysis of Mechanisms)},
+  url    = {http://www.artas.nl/en},
+}
+
+@Misc{Rector,
+  author = {Dave Rector},
+  title  = {Linkage},
+  url    = {http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/},
+}
+
+@Misc{Campbell,
+  author = {Matthew Campbell},
+  title  = {Planar Mechanism Kinematic Simulator},
+  url    = {http://design.engr.oregonstate.edu/pmksintro.html},
+}
+
+@Misc{Microsoft,
+  author = {Microsoft},
+  title  = {Microsoft Silverlight},
+  url    = {https://www.microsoft.com/silverlight/},
+}
+
+@MastersThesis{Lodha2017,
+  author  = {Anshul Lodha},
+  school  = {Stony Brook University},
+  title   = {{Web-Based Design and Simulation of One- and Multi-Degrees of Freedom Planar n-Bar Linkages}},
+  year    = {2017},
+  address = {USA},
+}
+
+@Misc{,
+  title = {SnappyXO},
+  url   = {http://snappyxo.com/},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
