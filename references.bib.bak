@@ -5094,13 +5094,13 @@ set theory},
 
 }
 
-@article{generalfitting-JCISE,
-   author = {Ge, Q. J. and Purwar, Anurag and Zhao, Ping and Deshpande, Shrinath},
-   title = {A Task Driven Approach to Unified Synthesis of Planar Four-bar Linkages using Algebraic Fitting of a Pencil of G-manifolds},
-   journal = {ASME Journal of Computing and Information Science in Engineering},
-   note = {10.1115/1.4035528},
-   abstract = {This paper studies the problem of planar four-bar motion approximation from the viewpoint of extraction of geometric constraints from a given set of planar displacements. Using the Image Space of planar displacements, we obtain a class of quadrics, called Generalized- or G-manifolds, with eight linear and homogeneous coefficients as a unified representation for constraint manifolds of all four types of planar dyads, RR, PR, and PR, and PP. Given a set of image points that represent planar displacements, the problem of synthesizing a planar four-bar linkage is reduced to finding a pencil of G-manifolds that best fit the image points in the least squares sense. This least squares problem is solved using Singular Value Decomposition. The linear coefficients associated with the smallest singular values are used to define a pencil of quadrics. Additional constraints on the linear coefficients are then imposed to obtain a planar four-bar linkage that best guides the coupler through the given displacements. The result is an efficient and linear algorithm that naturally extracts the geometric constraints of a motion and leads directly to the type and dimensions of a mechanism for motion generation.},
-   year = {2016}
+@Article{generalfitting-JCISE,
+  author   = {Ge, Q. J. and Purwar, Anurag and Zhao, Ping and Deshpande, Shrinath},
+  journal  = {ASME Journal of Computing and Information Science in Engineering},
+  title    = {A Task Driven Approach to Unified Synthesis of Planar Four-bar Linkages using Algebraic Fitting of a Pencil of G-manifolds},
+  year     = {2016},
+  note     = {10.1115/1.4035528},
+  abstract = {This paper studies the problem of planar four-bar motion approximation from the viewpoint of extraction of geometric constraints from a given set of planar displacements. Using the Image Space of planar displacements, we obtain a class of quadrics, called Generalized- or G-manifolds, with eight linear and homogeneous coefficients as a unified representation for constraint manifolds of all four types of planar dyads, RR, PR, and PR, and PP. Given a set of image points that represent planar displacements, the problem of synthesizing a planar four-bar linkage is reduced to finding a pencil of G-manifolds that best fit the image points in the least squares sense. This least squares problem is solved using Singular Value Decomposition. The linear coefficients associated with the smallest singular values are used to define a pencil of quadrics. Additional constraints on the linear coefficients are then imposed to obtain a planar four-bar linkage that best guides the coupler through the given displacements. The result is an efficient and linear algorithm that naturally extracts the geometric constraints of a motion and leads directly to the type and dimensions of a mechanism for motion generation.},
 }
 
 @Article{Ge1996,
@@ -18725,15 +18725,8 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   url    = {https://www.p12engineering.org/framework},
 }
 
-@Article{V.Megaro2017,
-  author  = {V. Megaro, J. Zehnder, M. Bächer, S. Coros, M. Gross, and B. Thomaszewski},
-  journal = {ACM Transactions on Graphics, vol. 36, no. 4, pp. 1–12},
-  title   = {A computational design tool for compliant mechanisms},
-  year    = {2017},
-}
-
 @Book{Truesdell1960,
-  author    = {C. Truesdell and L. Euler},
+  author    = {Truesdell, C. and Euler, L.},
   publisher = {Auctoritate et impensis Societatis scientiarum naturalium Helveticae},
   title     = {The rational mechanics of flexible or elastic bodies},
   year      = {1960},
@@ -18768,21 +18761,21 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 }
 
 @Book{Howell2001,
-  author    = {L. L. Howell},
+  author    = {Howell, Larry},
   publisher = {Wiley},
   title     = {Compliant Mechanism},
   year      = {2001},
 }
 
 @Article{L.Backwell2008,
-  author  = {L. Backwell, F. Derrico, and L. Wadley},
+  author  = {Backwell, L., Derrico, F., and Wadley, L.},
   journal = {Journal of Archaeological Science, vol. 35, no. 6, pp. 1566–1580},
   title   = {Middle Stone Age bone tools from the Howiesons Poort layers, Sibudu Cave, South Africa},
   year    = {2008},
 }
 
 @Article{P.E.Chevedden1995,
-  author  = {P. E. Chevedden, L. Eigenbrod, V. Foley, W. Soedel, and V. Foley},
+  author  = {Chevedden, P. E. , Eigenbrod, L., Foley, V., Soedel, W., and Foley, V.},
   journal = {Scientific American, vol. 273, no. 1, pp. 66–71},
   title   = {The Trebuchet},
   year    = {1995},
@@ -18814,13 +18807,6 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   note   = {http://www.cutlasercut.com/resources/tips-and-advice/what-is-laser-kerf},
   title  = {Understanding the ‘kerf’ of the laser},
   year   = {2009},
-}
-
-@InProceedings{T.Roumen2019,
-  author    = {T. Roumen, J. Shigeyama, J. C. R. Rudolph, F. Grzelka, and P. Baudisch},
-  booktitle = {Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology},
-  title     = {SpringFit},
-  year      = {2019},
 }
 
 @Misc{Kota2020,
@@ -18863,6 +18849,44 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   doi      = {https://doi.org/10.1016/j.mechmachtheory.2013.06.008},
   keywords = {Compliant mechanisms, Curved beam, Displacement matrix, Four-bar linkage, MEMS},
   url      = {http://www.sciencedirect.com/science/article/pii/S0094114X13001274},
+}
+
+@InProceedings{T.Roumen2019,
+  author    = {Roumen, Thijs and Shigeyama, Jotaro and Rudolph, Julius Cosmo Romeo and Grzelka, Felix and Baudisch, Patrick},
+  booktitle = {Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology},
+  title     = {SpringFit: Joints and Mounts That Fabricate on Any Laser Cutter},
+  year      = {2019},
+  address   = {New York, NY, USA},
+  pages     = {727–738},
+  publisher = {Association for Computing Machinery},
+  series    = {UIST '19},
+  abstract  = {Joints are crucial to laser cutting as they allow making three-dimensional objects; mounts are crucial because they allow embedding technical components, such as motors. Unfortunately, mounts and joints tend to fail when trying to fabricate a model on a different laser cutter or from a different material. The reason for this lies in the way mounts and joints hold objects in place, which is by forc-ing them into slightly smaller openings. Such "press fit" mechanisms unfortunately are susceptible to the small changes in diameter that occur when switching to a ma-chine that removes more or less material ("kerf"), as well as to changes in stiffness, as they occur when switching to a different material. We present a software tool called springFit that resolves this problem by replacing the problematic press fit-based mounts and joints with what we call canti¬lever-based mounts and joints. A cantilever spring is simply a long thin piece of material that pushes against the object to be held. Unlike press fits, cantilever springs are robust against variations in kerf and material; they can even handle very high variations, simply by using longer springs. SpringFit converts models in the form of 2D cutting plans by replacing all contained mounts, notch joints, finger joints, and t-joints. In our technical evaluation, we used springFit to convert 14 models downloaded from the web.},
+  doi       = {10.1145/3332165.3347930},
+  isbn      = {9781450368162},
+  keywords  = {laser cutting, portability, reuse, fabrication},
+  location  = {New Orleans, LA, USA},
+  numpages  = {12},
+  url       = {https://doi.org/10.1145/3332165.3347930},
+}
+
+@Article{V.Megaro2017,
+  author     = {Megaro, Vittorio and Zehnder, Jonas and B\"{a}cher, Moritz and Coros, Stelian and Gross, Markus and Thomaszewski, Bernhard},
+  journal    = {ACM Trans. Graph.},
+  title      = {A Computational Design Tool for Compliant Mechanisms},
+  year       = {2017},
+  issn       = {0730-0301},
+  month      = jul,
+  number     = {4},
+  volume     = {36},
+  abstract   = {We present a computational tool for designing compliant mechanisms. Our method takes as input a conventional, rigidly-articulated mechanism defining the topology of the compliant design. This input can be both planar or spatial, and we support a number of common joint types which, whenever possible, are automatically replaced with parameterized flexures. As the technical core of our approach, we describe a number of objectives that shape the design space in a meaningful way, including trajectory matching, collision avoidance, lateral stability, resilience to failure, and minimizing motor torque. Optimal designs in this space are obtained as solutions to an equilibrium-constrained minimization problem that we solve using a variant of sensitivity analysis. We demonstrate our method on a set of examples that range from simple four-bar linkages to full-fledged animatronics, and verify the feasibility of our designs by manufacturing physical prototypes.},
+  address    = {New York, NY, USA},
+  articleno  = {82},
+  doi        = {10.1145/3072959.3073636},
+  issue_date = {July 2017},
+  keywords   = {3D printing, computational design, compliant mechanism design},
+  numpages   = {12},
+  publisher  = {Association for Computing Machinery},
+  url        = {https://doi.org/10.1145/3072959.3073636},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
