@@ -19658,6 +19658,21 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   publisher = {Taylor \& Francis},
 }
 
+@Book{Sharp2013,
+  author    = {Sharp, James J and Sawden, Peter G},
+  publisher = {Elsevier},
+  title     = {BASIC hydrology},
+  year      = {2013},
+}
+
+@Article{Sneider2009,
+  author  = {Sneider, Cary and Rosen, Linda},
+  journal = {Standards for K-12 engineering education},
+  title   = {Towards a vision for engineering education in science and mathematics standards},
+  year    = {2009},
+  pages   = {114--134},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
