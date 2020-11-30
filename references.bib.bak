@@ -19340,6 +19340,324 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   year      = {2011},
 }
 
+@Article{Woodworth1901,
+  author    = {Woodworth, Robert S and Thorndike, EL},
+  journal   = {Psychological review},
+  title     = {The influence of improvement in one mental function upon the efficiency of other functions.(I).},
+  year      = {1901},
+  number    = {3},
+  pages     = {247},
+  volume    = {8},
+  publisher = {The Macmillan Company},
+}
+
+@Article{Wood2016,
+  author  = {Wood, Wendy and R{\"u}nger, Dennis},
+  journal = {Annual review of psychology},
+  title   = {Psychology of habit},
+  year    = {2016},
+  volume  = {67},
+}
+
+@Article{Wicklein2006,
+  author    = {Wicklein, Robert C},
+  journal   = {The Technology Teacher},
+  title     = {Five good reasons for engineering as the focus for technology education},
+  year      = {2006},
+  number    = {7},
+  pages     = {25},
+  volume    = {65},
+  publisher = {International Technology and Engineering Educators Association},
+}
+
+@Article{Warren2001,
+  author    = {Warren, Beth and Ballenger, Cynthia and Ogonowski, Mark and Rosebery, Ann S and Hudicourt-Barnes, Josiane},
+  journal   = {Journal of Research in Science Teaching: The Official Journal of the National Association for Research in Science Teaching},
+  title     = {Rethinking diversity in learning science: The logic of everyday sense-making},
+  year      = {2001},
+  number    = {5},
+  pages     = {529--552},
+  volume    = {38},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Waldrop2018,
+  author    = {Waldrop, Angela and Corey, Caitlyn and Halfacre, Matthew and Krantz, Dale and Gurganus, Jamie and Strimel, Greg J},
+  journal   = {Technology and Engineering Teacher},
+  title     = {engineering in athletics: teaching material selection and the application of dynamics for designing head protection},
+  year      = {2018},
+  number    = {4},
+  pages     = {31--38},
+  volume    = {78},
+  publisher = {International Technology Education Association},
+}
+
+@Article{Strimel2020,
+  author  = {Strimel, Greg and Huffman, Tanner and Grubbs, Michael and Kim, Eunhye and Gurganus, Jamie},
+  journal = {UMBC Faculty Collection},
+  title   = {Establishing a Content Taxonomy for the Coherent Study of Engineering in P-12 Schools},
+  year    = {2020},
+}
+
+@Article{Strimel2018,
+  author    = {Strimel, Greg J and Bartholomew, Scott R and Kim, Eunhye and Zhang, Liwei},
+  journal   = {Journal for STEM Education Research},
+  title     = {An investigation of engineering design cognition and achievement in primary school},
+  year      = {2018},
+  number    = {1-2},
+  pages     = {173--201},
+  volume    = {1},
+  publisher = {Springer},
+}
+
+@Article{Strimel2018a,
+  author  = {Strimel, Greg J and Kim, Eunhye and Bartholomew, Scott R and Cantu, DIANA V},
+  journal = {International Journal of Engineering Education},
+  title   = {Examining engineering design cognition with respect to student experience and performance},
+  year    = {2018},
+  number  = {6},
+  pages   = {1910--1929},
+  volume  = {34},
+}
+
+@InCollection{Strimel2019,
+  author    = {Strimel, Greg J},
+  booktitle = {Explorations in Technology Education Research},
+  publisher = {Springer},
+  title     = {Design cognition and student performance},
+  year      = {2019},
+  pages     = {173--191},
+}
+
+@Book{Council2010,
+  author    = {National Research Council and others},
+  publisher = {National Academies Press},
+  title     = {Standards for K-12 engineering education?},
+  year      = {2010},
+}
+
+@Article{Mehalik2008,
+  author    = {Mehalik, Matthew M and Doppelt, Yaron and Schuun, Christian D},
+  journal   = {Journal of engineering education},
+  title     = {Middle-school science through design-based learning versus scripted inquiry: Better overall science concept learning and equity gap reduction},
+  year      = {2008},
+  number    = {1},
+  pages     = {71--85},
+  volume    = {97},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Merrill2008,
+  author    = {Merrill, Chris and Custer, Rodney L and Daugherty, Jenny Lynn and Westrick, Martin and Zeng, Yong and others},
+  journal   = {Volume 20 Issue 1 (fall 2008)},
+  title     = {Delivering core engineering concepts to secondary level students},
+  year      = {2008},
+  publisher = {Council on Technology Teacher Education and the International Technology and~…},
+}
+
+@InCollection{Miaoulis2010,
+  author    = {Miaoulis, Ioannis},
+  booktitle = {Holistic engineering education},
+  publisher = {Springer},
+  title     = {K-12 Engineering--the missing core discipline},
+  year      = {2010},
+  pages     = {37--51},
+}
+
+@Article{Moll1992,
+  author    = {Moll, Luis C and Amanti, Cathy and Neff, Deborah and Gonzalez, Norma},
+  journal   = {Theory into practice},
+  title     = {Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms},
+  year      = {1992},
+  number    = {2},
+  pages     = {132--141},
+  volume    = {31},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Moore2014,
+  author    = {Moore, Tamara J and Glancy, Aran W and Tank, Kristina M and Kersten, Jennifer A and Smith, Karl A and Stohlmann, Micah S},
+  journal   = {Journal of pre-college engineering education research (J-PEER)},
+  title     = {A framework for quality K-12 engineering education: Research and development},
+  year      = {2014},
+  number    = {1},
+  pages     = {2},
+  volume    = {4},
+  publisher = {Purdue University Press},
+}
+
+@Book{Council2009,
+  author    = {National Research Council and others},
+  publisher = {National Academies Press},
+  title     = {Engineering in K-12 education: Understanding the status and improving the prospects},
+  year      = {2009},
+}
+
+@Book{Council2010a,
+  author    = {National Research Council and others},
+  publisher = {National Academies Press},
+  title     = {Standards for K-12 engineering education?},
+  year      = {2010},
+}
+
+@Book{Council2017,
+  author    = {Council, Teacher Advisory and National Academies of Sciences, Engineering, and Medicine and others},
+  publisher = {National Academies Press},
+  title     = {Increasing the roles and significance of teachers in policymaking for K-12 engineering education: Proceedings of a convocation},
+  year      = {2017},
+}
+
+@InProceedings{Speaking2002,
+  author    = {Speaking, Technically},
+  booktitle = {National Academy of},
+  title     = {Why all Americans need to know more about technology},
+  year      = {2002},
+}
+
+@Book{Gamire2006,
+  author    = {Gamire, Elsa and Pearson, Greg},
+  publisher = {Island Press},
+  title     = {Tech tally: Approaches to assessing technological literacy},
+  year      = {2006},
+}
+
+@Book{Council2009a,
+  author    = {National Research Council and others},
+  publisher = {National Academies Press},
+  title     = {Engineering in K-12 education: Understanding the status and improving the prospects},
+  year      = {2009},
+}
+
+@Article{LearnII2018,
+  author = {Learn II, How People},
+  title  = {How People Learn II: Learners, Contexts, and Cultures},
+  year   = {2018},
+}
+
+@Article{Learn2000,
+  author  = {Learn, How People},
+  journal = {Committee on Developments in the Science of Learning},
+  title   = {Brain, mind, experience, and school},
+  year    = {2000},
+}
+
+@Book{Council2012,
+  author    = {National Research Council and others},
+  publisher = {National Academies Press},
+  title     = {A framework for K-12 science education: Practices, crosscutting concepts, and core ideas},
+  year      = {2012},
+}
+
+@Article{Gunders2017a,
+  author    = {Gunders, Dana and Bloom, Jonathan},
+  title     = {Wasted: How America is losing up to 40 percent of its food from farm to fork to landfill},
+  year      = {2017},
+  publisher = {Natural Resources Defense Council New York},
+}
+
+@Article{Nembhard2009,
+  author    = {Nembhard, David and Yip, Kelly and Shtub, Avraham},
+  journal   = {Journal of Engineering Education},
+  title     = {Comparing competitive and cooperative strategies for learning project management},
+  year      = {2009},
+  number    = {2},
+  pages     = {181--192},
+  volume    = {98},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Pazzaglia2012,
+  author    = {Pazzaglia, Gina and Williams, Christine},
+  journal   = {Journal of School Health},
+  title     = {Bring food and culture to the classroom.},
+  year      = {2012},
+  number    = {12},
+  pages     = {577--580},
+  volume    = {82},
+  publisher = {ERIC},
+}
+
+@Article{PetersBurton2014,
+  author    = {Peters-Burton, Erin E},
+  journal   = {School Science and Mathematics},
+  title     = {Is there a “nature of stem”?},
+  year      = {2014},
+  number    = {3},
+  pages     = {99--101},
+  volume    = {114},
+  publisher = {Wiley Online Library},
+}
+
+@InProceedings{Rader2011,
+  author    = {Rader, Cyndi and Hakkarinen, Doug and Moskal, Barbara M and Hellman, Keith},
+  booktitle = {Proceedings of the 42nd ACM technical symposium on Computer science education},
+  title     = {Exploring the appeal of socially relevant computing: are students interested in socially relevant problems?},
+  year      = {2011},
+  pages     = {423--428},
+}
+
+@Article{Rahm2002,
+  author    = {Rahm, Jrene},
+  journal   = {Journal of Research in Science Teaching: The Official Journal of the National Association for Research in Science Teaching},
+  title     = {Emergent learning opportunities in an inner-city youth gardening program},
+  year      = {2002},
+  number    = {2},
+  pages     = {164--184},
+  volume    = {39},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Reed2018,
+  author = {Reed, Philip A},
+  title  = {STEM, standards, and},
+  year   = {2018},
+}
+
+@Article{Reimers2015a,
+  author    = {Reimers, Jackson E and Farmer, Cheryl L and Klein-Gardner, Stacy S},
+  journal   = {Journal of Pre-College Engineering Education Research (J-PEER)},
+  title     = {An introduction to the standards for preparation and professional development for teachers of engineering},
+  year      = {2015},
+  number    = {1},
+  pages     = {5},
+  volume    = {5},
+  publisher = {Purdue University Press},
+}
+
+@Misc{Rowland2017,
+  author = {Rowland, MP},
+  title  = {Here's how we solve our food waste problem. Forbes},
+  year   = {2017},
+}
+
+@Article{Samuels2015,
+  author    = {Samuels, Kyle and Seymour, Richard},
+  journal   = {Technology and Engineering Teacher},
+  title     = {the middle school curriculum: engineering anyone?},
+  year      = {2015},
+  number    = {6},
+  pages     = {8},
+  volume    = {74},
+  publisher = {International Technology Education Association},
+}
+
+@Article{Scriven2019,
+  author = {Scriven, Brian Walter},
+  title  = {Teacher Perception of Culturally Responsive Teaching Strategies that Have the Greatest Impact on the Engagement of African American Male Students},
+  year   = {2019},
+}
+
+@Article{Sharp1991,
+  author    = {Sharp, James J},
+  journal   = {The Vocational Aspect of Education},
+  title     = {Methodologies for problem solving: An engineering approach},
+  year      = {1991},
+  number    = {114},
+  pages     = {147--157},
+  volume    = {42},
+  publisher = {Taylor \& Francis},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
