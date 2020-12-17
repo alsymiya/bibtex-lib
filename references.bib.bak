@@ -19832,6 +19832,90 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   year      = {2014},
 }
 
+@Misc{AmericanInstituteofPhysics2020,
+  author = {American Institute of Physics,},
+  note   = {https://www.aip.org/fyi/2020/final-fy20-appropriations-stem-education},
+  title  = {Final FY 2020 Appropriations: STEM Education},
+  year   = {2020},
+}
+
+@Misc{NationalCenterforEducationStatistics2018,
+  author = {National Center for Education Statistics,},
+  note   = {https://nces.ed.gov/programs/digest/d19/tables/dt19_105.50.asp?current=yes},
+  title  = {Digest of Education Statistics},
+  year   = {2018},
+}
+
+@Misc{NationalCenterforEducationStatistics2017,
+  author = {National Center for Education Statistics,},
+  note   = {https://nces.ed.gov/programs/digest/d17/tables/dt17_105.30.asp?referrer=report},
+  title  = {Enrollment in elementary, secondary, and degree-granting postsecondary institutions, by level and control of institution: Selected years, 1869-70 through fall 2027},
+  year   = {2017},
+}
+
+@Misc{NationalCenterforEducationStatistics2016,
+  author = {National Center for Education Statistics,},
+  note   = {https://nces.ed.gov/programs/digest/d17/tables/dt17_209.50.asp},
+  title  = {Percentage of public school teachers of grades 9 through 12, by field of main teaching assignment and selected demographic and educational characteristics: 2015-16},
+  year   = {2016},
+}
+
+@Misc{AmericanInstituteofPhysics2020a,
+  author = {American Institute of Physics,},
+  month  = nov,
+  note   = {https://www.aip.org/fyi/2020/fy21-budget-outlook-stem-education},
+  title  = {FY21 Budget Outlook: STEM Education},
+  year   = {2020},
+}
+
+@Misc{AmericasFarmers,
+  author = {America's Farmers,},
+  note   = {https://www.americasfarmers.com/grow-rural-education/},
+  title  = {Grow Rural Education Program},
+}
+
+@Misc{EducationCommissionoftheUnitedStates,
+  author = {Education Commission of the United States,},
+  note   = {https://vitalsigns.ecs.org/state/United-States/demand},
+}
+
+@Misc{SmithsonianScienceEducationCenter2020,
+  author = {Smithsonian Science Education Center,},
+  note   = {https://ssec.si.edu/stem-imperative},
+  title  = {The Stem Imperative},
+  year   = {2020},
+}
+
+@Article{Xue2015,
+  author    = {Xue, Yi and Larson, Richard C},
+  journal   = {Monthly labor review},
+  title     = {STEM crisis or STEM surplus? Yes and yes},
+  year      = {2015},
+  volume    = {2015},
+  publisher = {NIH Public Access},
+}
+
+@Misc{InstituteofEducationSciences2018,
+  author = {Institute of Education Sciences,},
+  note   = {https://ncee.org/2018/05/graduation-rates-worldwide/},
+  title  = {PISA 2018 Science Literacy Results},
+  year   = {2018},
+}
+
+@Misc{ResearchndMarkets2019,
+  author = {Research \and Markets,},
+  note   = {https://www.researchandmarkets.com/reports/4987720/educational-robot-market-to-2027-global?utm_source=dynamic&utm_medium=BW&utm_code=bvs7zp&utm_campaign=1353372+-+Global+Educational+Robot+Market+(2019+to+2027)+-+CAGR+of+18.2%25+Expected+During+the+Forecast+Period&utm_exec=jamu273bwd},
+  title  = {Educational Robot Market to 2027 - Global Analysis and Forecasts by Type; Application},
+  year   = {2019},
+}
+
+@Misc{NationalCenterforSciencendEngineeringStatistics2019,
+  author = {National Center for Science \and Engineering Statistics,},
+  note   = {https://ncses.nsf.gov/pubs/nsf19304/digest/occupation},
+  title  = {Women, Minoritiesm and Persons with Disabilities in Science and Engineering},
+  year   = {2019},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
