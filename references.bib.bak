@@ -19788,145 +19788,83 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   year   = {2011},
 }
 
-@Article{Beck2016,
-  author   = {Beck, Mikkel M. and Lind, Rune R. and Geertsen, Svend S. and Ritz, Christian and Lundbye-Jensen, Jesper and Wienecke, Jacob},
-  journal  = {Frontiers in Human Neuroscience},
-  title    = {Motor-Enriched Learning Activities Can Improve Mathematical Performance in Preadolescent Children},
-  year     = {2016},
-  issn     = {1662-5161},
-  pages    = {645},
-  volume   = {10},
-  abstract = {Objective: An emerging field of research indicates that physical activity can benefit cognitive functions and academic achievements in children. However, less is known about how academic achievements can benefit from specific types of motor activities (e.g., fine and gross) integrated into learning activities. Thus, the aim of this study was to investigate whether fine or gross motor activity integrated into math lessons (i.e., motor-enrichment) could improve children's mathematical performance.Methods: A 6-week within school cluster-randomized intervention study investigated the effects of motor-enriched mathematical teaching in Danish preadolescent children (n = 165, age = 7.5 ± 0.02 years). Three groups were included: a control group (CON), which received non-motor enriched conventional mathematical teaching, a fine motor math group (FMM) and a gross motor math group (GMM), which received mathematical teaching enriched with fine and gross motor activity, respectively. The children were tested before (T0), immediately after (T1) and 8 weeks after the intervention (T2). A standardized mathematical test (50 tasks) was used to evaluate mathematical performance. Furthermore, it was investigated whether motor-enriched math was accompanied by different effects in low and normal math performers. Additionally, the study investigated the potential contribution of cognitive functions and motor skills on mathematical performance.Results: All groups improved their mathematical performance from T0 to T1. However, from T0 to T1, the improvement was significantly greater in GMM compared to FMM (1.87 ± 0.71 correct answers) (p = 0.02). At T2 no significant differences in mathematical performance were observed. A subgroup analysis revealed that normal math-performers benefitted from GMM compared to both CON 1.78 ± 0.73 correct answers (p = 0.04) and FMM 2.14 ± 0.72 correct answers (p = 0.008). These effects were not observed in low math-performers. The effects were partly accounted for by visuo-spatial short-term memory and gross motor skills.Conclusion: The study demonstrates that motor enriched learning activities can improve mathematical performance. In normal math performers GMM led to larger improvements than FMM and CON. This was not the case for the low math performers. Future studies should further elucidate the neurophysiological mechanisms underlying the observed behavioral effects.},
-  doi      = {10.3389/fnhum.2016.00645},
-  url      = {https://www.frontiersin.org/article/10.3389/fnhum.2016.00645},
-}
-
-@Article{Hussar2020,
-  author    = {Hussar, William J and Bailey, Tabitha M},
-  journal   = {National Center for Education Statistics},
-  title     = {Projections of Education Statistics to 2028. NCES 2020-024.},
-  year      = {2020},
-  publisher = {ERIC},
-}
-
-@InCollection{Mead2012,
-  author    = {Mead, Ross A and Thomas, Susan L and Weinberg, Jerry B},
-  booktitle = {Robots in K-12 education: A new technology for learning},
-  publisher = {IGI Global},
-  title     = {From grade school to grad school: An integrated STEM pipeline model through robotics},
-  year      = {2012},
-  pages     = {302--325},
-}
-
-@Book{Barker2012,
-  author    = {Barker, Bradley S and Nugent, Gwen and Grandgenett, Neal and Adamchuk, Viacheslav I},
-  publisher = {Information Science Reference},
-  title     = {Robots in K-12 education: A new technology for learning},
-  year      = {2012},
-}
-
-@InProceedings{Koizumi2014,
-  author    = {Koizumi, Kei},
-  booktitle = {2014 ERC},
-  title     = {The 2015 Budget: Science, Technology, and Innovation for Opportunity and Growth},
-  year      = {2014},
-}
-
-@Misc{AmericanInstituteofPhysics2020,
-  author = {American Institute of Physics,},
-  note   = {https://www.aip.org/fyi/2020/final-fy20-appropriations-stem-education},
-  title  = {Final FY 2020 Appropriations: STEM Education},
+@Misc{cap-report,
+  author = {Quirk, A.; Campbell, N.; Boser, U.},
+  note   = {https://www.americanprogress.org/issues/education-k-12/reports/2020/10/14/491542/early-high-school-stem-perceptions-associated-postsecondary-outcomes/},
+  title  = {Early High School STEM Perceptions Associated With Postsecondary Outcomes},
   year   = {2020},
 }
 
-@Misc{NationalCenterforEducationStatistics2018,
-  author = {National Center for Education Statistics,},
-  note   = {https://nces.ed.gov/programs/digest/d19/tables/dt19_105.50.asp?current=yes},
-  title  = {Digest of Education Statistics},
-  year   = {2018},
-}
-
-@Misc{NationalCenterforEducationStatistics2017,
-  author = {National Center for Education Statistics,},
-  note   = {https://nces.ed.gov/programs/digest/d17/tables/dt17_105.30.asp?referrer=report},
-  title  = {Enrollment in elementary, secondary, and degree-granting postsecondary institutions, by level and control of institution: Selected years, 1869-70 through fall 2027},
+@Misc{McKinsey2017,
+  author = {McKinsey and Company,},
+  month  = nov,
+  note   = {https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#},
+  title  = {Jobs lost, jobs gained: What the future of work will mean for jobs, skills, and wages},
   year   = {2017},
 }
 
-@Misc{NationalCenterforEducationStatistics2016,
-  author = {National Center for Education Statistics,},
-  note   = {https://nces.ed.gov/programs/digest/d17/tables/dt17_209.50.asp},
-  title  = {Percentage of public school teachers of grades 9 through 12, by field of main teaching assignment and selected demographic and educational characteristics: 2015-16},
-  year   = {2016},
+@Misc{HolonIQ,
+  author = {HolonIQ},
+  note   = {https://www.holoniq.com/2030/#:~:text=Education%20in%202030%20is%20a,Future%20of%20Learning%20and%20Talent},
+  title  = {Education in 2030},
 }
 
-@Misc{AmericanInstituteofPhysics2020a,
-  author = {American Institute of Physics,},
-  month  = nov,
-  note   = {https://www.aip.org/fyi/2020/fy21-budget-outlook-stem-education},
-  title  = {FY21 Budget Outlook: STEM Education},
-  year   = {2020},
+@Misc{InsideHigherEd2013,
+  author = {Inside Higher Ed,},
+  month  = oct,
+  note   = {https://www.insidehighered.com/news/2013/10/01/study-finds-math-and-science-exposure-has-significant-impact-intent-study-stem},
+  title  = {Why Students Study STEM},
+  year   = {2013},
 }
 
-@Misc{AmericasFarmers,
-  author = {America's Farmers,},
-  note   = {https://www.americasfarmers.com/grow-rural-education/},
-  title  = {Grow Rural Education Program},
-}
-
-@Misc{EducationCommissionoftheUnitedStates,
-  author = {Education Commission of the United States,},
-  note   = {https://vitalsigns.ecs.org/state/United-States/demand},
-}
-
-@Misc{SmithsonianScienceEducationCenter2020,
-  author = {Smithsonian Science Education Center,},
-  note   = {https://ssec.si.edu/stem-imperative},
-  title  = {The Stem Imperative},
-  year   = {2020},
-}
-
-@Article{Xue2015,
-  author    = {Xue, Yi and Larson, Richard C},
-  journal   = {Monthly labor review},
-  title     = {STEM crisis or STEM surplus? Yes and yes},
-  year      = {2015},
-  volume    = {2015},
-  publisher = {NIH Public Access},
-}
-
-@Misc{InstituteofEducationSciences2018,
-  author = {Institute of Education Sciences,},
-  note   = {https://ncee.org/2018/05/graduation-rates-worldwide/},
-  title  = {PISA 2018 Science Literacy Results},
+@Misc{EducationWeek2018,
+  author = {EducationWeek,},
+  month  = oct,
+  note   = {https://www.edweek.org/teaching-learning/states-aggressively-adopting-k-12-computer-science-policies-report-finds/2018/10},
+  title  = {States Aggressively Adopting K-12 Computer Science Policies},
   year   = {2018},
 }
 
-@Misc{Research2019,
-  author = {Research and Markets,},
-  note   = {https://www.researchandmarkets.com/reports/4987720/educational-robot-market-to-2027-global?utm_source=dynamic&utm_medium=BW&utm_code=bvs7zp&utm_campaign=1353372+-+Global+Educational+Robot+Market+(2019+to+2027)+-+CAGR+of+18.2%25+Expected+During+the+Forecast+Period&utm_exec=jamu273bwd},
-  title  = {Educational Robot Market to 2027 - Global Analysis and Forecasts by Type; Application},
-  year   = {2019},
+@Misc{HighSchools.com,
+  author = {High-Schools.com},
+  note   = {https://high-schools.com/},
 }
 
-@Misc{NationalCenterforSciencendEngineeringStatistics2019,
-  author = {National Center for Science \and Engineering Statistics,},
-  note   = {https://ncses.nsf.gov/pubs/nsf19304/digest/occupation},
-  title  = {Women, Minoritiesm and Persons with Disabilities in Science and Engineering},
-  year   = {2019},
+@Misc{UnitedStatesCensus2020,
+  author = {United States Census,},
+  month  = may,
+  note   = {https://www.census.gov/library/visualizations/2020/comm/school-system-spending.html},
+  title  = {U.S. School System Spending Per Pupil by Region},
+  year   = {2020},
 }
 
-@Article{Beck2016a,
-  author   = {Beck, Mikkel M. and Lind, Rune R. and Geertsen, Svend S. and Ritz, Christian and Lundbye-Jensen, Jesper and Wienecke, Jacob},
-  journal  = {Frontiers in Human Neuroscience},
-  title    = {Motor-Enriched Learning Activities Can Improve Mathematical Performance in Preadolescent Children},
-  year     = {2016},
-  issn     = {1662-5161},
-  pages    = {645},
-  volume   = {10},
-  abstract = {Objective: An emerging field of research indicates that physical activity can benefit cognitive functions and academic achievements in children. However, less is known about how academic achievements can benefit from specific types of motor activities (e.g., fine and gross) integrated into learning activities. Thus, the aim of this study was to investigate whether fine or gross motor activity integrated into math lessons (i.e., motor-enrichment) could improve children's mathematical performance.Methods: A 6-week within school cluster-randomized intervention study investigated the effects of motor-enriched mathematical teaching in Danish preadolescent children (n = 165, age = 7.5 ± 0.02 years). Three groups were included: a control group (CON), which received non-motor enriched conventional mathematical teaching, a fine motor math group (FMM) and a gross motor math group (GMM), which received mathematical teaching enriched with fine and gross motor activity, respectively. The children were tested before (T0), immediately after (T1) and 8 weeks after the intervention (T2). A standardized mathematical test (50 tasks) was used to evaluate mathematical performance. Furthermore, it was investigated whether motor-enriched math was accompanied by different effects in low and normal math performers. Additionally, the study investigated the potential contribution of cognitive functions and motor skills on mathematical performance.Results: All groups improved their mathematical performance from T0 to T1. However, from T0 to T1, the improvement was significantly greater in GMM compared to FMM (1.87 ± 0.71 correct answers) (p = 0.02). At T2 no significant differences in mathematical performance were observed. A subgroup analysis revealed that normal math-performers benefitted from GMM compared to both CON 1.78 ± 0.73 correct answers (p = 0.04) and FMM 2.14 ± 0.72 correct answers (p = 0.008). These effects were not observed in low math-performers. The effects were partly accounted for by visuo-spatial short-term memory and gross motor skills.Conclusion: The study demonstrates that motor enriched learning activities can improve mathematical performance. In normal math performers GMM led to larger improvements than FMM and CON. This was not the case for the low math performers. Future studies should further elucidate the neurophysiological mechanisms underlying the observed behavioral effects.},
-  doi      = {10.3389/fnhum.2016.00645},
-  url      = {https://www.frontiersin.org/article/10.3389/fnhum.2016.00645},
+@TechReport{Purwar2018,
+  author = {Anurag Purwar},
+  title  = {NSF I-Corps: A Design Driven Educational Robotics Framework},
+  year   = {2018},
+}
+
+@Misc{IBISWorld2020,
+  author = {IBISWorld},
+  month  = jul,
+  note   = {https://www.ibisworld.com/industry-statistics/number-of-businesses/summer-camps-united-states/},
+  title  = {Summer Camps in the US - Number of Businesses 2005–2026},
+  year   = {2020},
+}
+
+@Book{RonaldJ.Burke2007,
+  author    = {Ronald J. Burke,},
+  editor    = {Mary C. Mattis,},
+  publisher = {Edward Elgar Publishing Limited},
+  title     = {Women and Minorities in Science, Technology, Engineering, and Mathematics: Upping the Numbers},
+  year      = {2007},
+}
+
+@TechReport{Dr.ShaliniKeskar2019,
+  author      = {Dr. Shalini Keskar,},
+  institution = {Microsoft Education Team},
+  title       = {Closing the STEM Gap: Why STEM Classes and Careers Still Lack Girls and What We Can Do About It},
+  year        = {2019},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
