@@ -12,7 +12,7 @@ Use JabRef to manage (create/copy/edit/delete) references. This would be saved i
 Click on the Open In Desktop button as shown in ![image](inst.png)
 
 
-Follow the instruction on how to pull and push; see this webpage for how to do that [https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github]
+Follow the instruction on how to pull and push; see this webpage for how to do that https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github
 
 ## Instruction for Mac/Linux User
 Setup repo from terminal
