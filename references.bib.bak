@@ -4,7 +4,7 @@
 @InProceedings{special-session,
   booktitle = {ASME IDETC},
   title     = {Special Session on Computer Aided Linkage Synthesis},
-  year      = {2002},
+  year      = {2002.},
 }
 
 @Article{2005,
