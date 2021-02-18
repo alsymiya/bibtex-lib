@@ -1,10 +1,8 @@
 % Encoding: UTF-8
-﻿
+﻿@inproceedings{special-session,
+   title = {Special Session on Computer Aided Linkage Synthesis},
+   booktitle = {ASME IDETC},
 
-@InProceedings{special-session,
-  booktitle = {ASME IDETC},
-  title     = {Special Session on Computer Aided Linkage Synthesis},
-  year      = {2002.},
 }
 
 @Article{2005,
@@ -20099,6 +20097,12 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   pages     = {27--38},
   volume    = {4},
   publisher = {ERIC},
+}
+
+@Misc{MechanismicInc.b,
+  author = {Mechanismic~Inc.,},
+  title  = {MotionGenPro},
+  url    = {https://www.snappyxo.com/motiongen-pro/},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
