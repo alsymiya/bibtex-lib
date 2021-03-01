@@ -1,10 +1,8 @@
 % Encoding: UTF-8
-﻿
+﻿@inproceedings{special-session,
+   title = {Special Session on Computer Aided Linkage Synthesis},
+   booktitle = {ASME IDETC},
 
-@InProceedings{special-session,
-  booktitle = {ASME IDETC},
-  title     = {Special Session on Computer Aided Linkage Synthesis},
-  year      = {2002.},
 }
 
 @Article{2005,
@@ -20074,12 +20072,12 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 }
 
 @Misc{MechanismicInc.,
-  author = {Mechanismic Inc.,},
+  author = {{Mechanismic Inc.},},
   title  = {ArduinoBlue},
 }
 
 @Misc{MechanismicInc.a,
-  author = {Mechanismic Inc.,},
+  author = {{Mechanismic Inc.},},
   title  = {SnappyXO Projects},
 }
 
@@ -20101,127 +20099,96 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   publisher = {ERIC},
 }
 
-@Article{betavae,
-  author  = {Irina, H. and Matthey, L. and Pal, A. and Christopher, B. and Xavier G. and Matthew, B. and Shakir, M. and Alexander, L.},
-  journal = {ICLR 2017 conference},
-  title   = {beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework},
-  year    = {2016},
+@Misc{MechanismicInc.b,
+  author = {{Mechanismic Inc.},},
+  title  = {MotionGenPro},
+  url    = {https://www.snappyxo.com/motiongen-pro/},
 }
 
-@Article{engDesignProcess,
-  author  = {Atman, C. and Adams, R. S. and Cardella, M. E. and Turns, J.},
-  journal = {Journal of Engineering Education},
-  title   = {Engineering Design Processes: A Comparison of Students and Expert Practitioners},
-  year    = {2007},
+@Misc{InsideHigherEd2017,
+  author = {{Inside~Higher~Ed},},
+  month  = oct,
+  title  = {Foreign Students and Graduate STEM Enrollment},
+  year   = {2017},
+  url    = {https://www.insidehighered.com/quicktakes/2017/10/11/foreign-students-and-graduate-stem-enrollment},
 }
 
-@Article{Huang2020,
-  author = {Zifeng Huang},
-  title  = {Deep-learning-based Machine Understanding of Sketches:Recognizing and Generating Sketches with Deep NeuralNetworks},
+@Misc{Code.orgAdvocacyCoalition2020,
+  author = {{Code.org~Advocacy~Coalition},},
+  title  = {2020 State of Computer Science Education:Illuminating Disparities},
   year   = {2020},
 }
 
-@Article{guchluturk,
-  author = {Güçlütürk, Y. and Güçlü, U. and van Lier, R. and van Gerven, M. A. J.},
-  title  = {Convolutional Sketch Inversion},
-  year   = {2016},
+@Misc{Code.org2020,
+  author = {{Code.org},},
+  title  = {2020 State of CS Report Shows less than Half of U.S. Schools Teach CS},
+  year   = {2020},
+  url    = {https://codeorg.medium.com/2020-state-of-cs-report-shows-less-than-half-of-u-s-schools-teach-cs-2c733e3c5d54},
 }
 
-@Article{yolov3,
-  author = {Redmon, J. and Farhadi, A.},
-  title  = {YOLOv3: An Incremental Improvement},
+@Misc{Dr.JosephRoy2018,
+  author = {{Dr.~Joseph~Roy},},
+  title  = {Enigneering by the Numbers},
   year   = {2018},
+  url    = {https://ira.asee.org/wp-content/uploads/2019/07/2018-Engineering-by-Numbers-Engineering-Statistics-UPDATED-15-July-2019.pdf},
 }
 
-@Article{fastRCNN,
-  author  = {Ross Girshick},
-  journal = {Microsoft Research},
-  title   = {Fast R-CNN},
-  year    = {2015},
-}
-
-@Article{fasterRCNN,
-  author = {Ren, S. and He, K. and Girshick, R. and Sun, J.},
-  title  = {Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks},
-  year   = {2015},
-}
-
-@Article{ssdLiu,
-  author  = {Liu, W. and Anguelov, D. and Erhan, D. and Szegedy, C. and Reed, S. and Fu, C. Y. and Berg, A. C.},
-  journal = {European Conference on Computer Vision},
-  title   = {SSD: Single Shot MultiBox Detector},
-  year    = {2016},
-}
-
-@Article{activFunc,
-  author = {Nwankpa, C. E. and Ijomah, W. and Gachagan, A. and Marshall, S.},
-  title  = {Activation Functions: Comparison of Trends inPractice and Research for Deep Learning},
-  year   = {2018},
-}
-
-@Article{cnnFILTER,
-  author  = {Ahmed, W. S. and Karim, A. A. A.},
-  journal = {2020 International Conference on Computer Science and Software Engineering (CSASE)},
-  title   = {The Impact of Filter Size and Number of Filters on Classification Accuracy in CNN},
-  year    = {2020},
-}
-
-@Article{transferLearning,
-  author = {Zhuang, F. and Qi, Z. and Duan, K. and Xi, D. and Zhu, Y. and Zhu, H. and Xiong, H. and He, Q.},
-  title  = {A Comprehensive Survey on Transfer Learning},
-  year   = {2019},
-}
-
-@Article{gan,
-  author = {Goodfellow, I. J. and Pouget-Abadie, J. and Mirza, M. and Xu, B. and Warde-Farley, D. and Ozair, S. and Courville, A. and Bengio, Y.},
-  title  = {Generative Adversarial Networks},
-  year   = {2014},
-}
-
-@Article{tsne,
-  author  = {van der Maaten, L. and Hinton, G.},
-  journal = {Journal of Machine Learning},
-  title   = {Visualizing Data using t-SNE},
-  year    = {2008},
-}
-
-@Article{pca,
-  author  = {Maćkiewicz, A. and Ratajczak, W.},
-  journal = {Computers & Geosciences},
-  title   = {Principal components analysis (PCA)},
-  year    = {1993},
-}
-
-@Article{shapingLatSpace,
-  author = {Oring, A. and Yakhini, Z. and Hel-Or, Y.},
-  title  = {Autoencoder Image Interpolation by Shaping the Latent Space},
+@Misc{USNews2020,
+  author = {{US News},},
+  month  = apr,
+  title  = {2020 Best High Schools for STEM Rankings Methodology},
   year   = {2020},
+  url    = {https://www.usnews.com/education/best-high-schools/articles/stem-rankings-methodology},
 }
 
-@Article{3dML,
-  author = {Yoo, S. and Lee, S. and Kim, S. and Hwang, K. H. and Park, J. H. Namwoo Kang, N.},
-  title  = {Integrating Deep Learning into CAD/CAE System: Generative Design and Evaluation of 3D Conceptual Wheel},
+@Misc{NationalMathScienceInitiative2021,
+  author = {{National Math + Science Initiative},},
+  title  = {STEM Opportunity Index},
+  year   = {2021},
+  url    = {https://stemopportunityindex.com/},
+}
+
+@Misc{MDREducation,
+  author = {{MDR Education},},
+  title  = {MDR Education Data},
+  url    = {https://mdreducation.com/wp-content/uploads/2018/08/MDR_ed_catalog.pdf},
+}
+
+@Misc{UBTech,
+  author = {{UBTech},},
+  url    = {https://www.ubtech.edu/},
+}
+
+@Misc{Meccano,
+  author = {{Meccano},},
+  url    = {http://www.meccano.com/},
+}
+
+@Misc{LEGOBoost,
+  author = {{LEGO Boost},},
+  url    = {https://www.lego.com/en-us/themes/boost},
+}
+
+@Misc{2021,
+  author = {{Mechanismic~Inc.}},
+  month  = feb,
+  note   = {88644145},
+  title  = {SnappyXO Educational Services Trademark Application},
+  year   = {2021},
+}
+
+@Misc{MechanismicInc.2020,
+  author = {{Mechanismic~Inc.},},
+  month  = nov,
+  note   = {87736219},
+  title  = {SnappyXO Product Trademark Application},
   year   = {2020},
-}
-
-@Article{ohML,
-  author  = {Oh, S. and Jung, Y. and Kim, S. and Lee, I. and Kang, N.},
-  journal = {Journal of Mechanical Design},
-  title   = {{Deep generative design: Integration of topology optimizationand generative models}},
-  year    = {2019},
-}
-
-@Article{nieML,
-  author  = {Nie, Z. and Jiang, H. and Kara, L. B.},
-  journal = {Journal of Computing and Information Science in Engineering},
-  title   = {{Stress field prediction in cantilevered structures using convolutionalneural networks}},
-  year    = {2020},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
-1 StaticGroup:Markings\;2\;0\;\;\;\;;
+1 StaticGroup:Markings\;2\;1\;\;\;\;;
 2 StaticGroup:purwar:6\;2\;1\;\;\;\;;
 }
