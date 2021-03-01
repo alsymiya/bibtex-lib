@@ -20035,7 +20035,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 }
 
 @Misc{UnitedStatesCensus2020,
-  author = {United States Census,},
+  author = {{United~States~Census},},
   month  = may,
   title  = {U.S. School System Spending Per Pupil by Region},
   year   = {2020},
