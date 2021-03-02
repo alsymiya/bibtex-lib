@@ -19937,8 +19937,9 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 @Misc{Research2020,
   author = {{Grand~View~Research}},
   month  = jul,
-  title  = {Education Technology Market Size, Share & Trends Analysis Report By Sector (Preschool, K-12, Higher Education), By End User (Business, Consumer), By Type, By Region, And Segment Forecasts},
+  title  = {{Education Technology Market Size, Share & Trends Analysis Report By Sector (Preschool, K-12, Higher Education), By End User (Business, Consumer), By Type, By Region, And Segment Forecasts},},
   year   = {2020},
+  url    = {https://www.grandviewresearch.com/industry-analysis/education-technology-market},
 }
 
 @Misc{Foundation2014,
@@ -20074,11 +20075,13 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 @Misc{MechanismicInc.,
   author = {{Mechanismic Inc.},},
   title  = {ArduinoBlue},
+  url    = {https://sites.google.com/stonybrook.edu/arduinoble/},
 }
 
 @Misc{MechanismicInc.a,
   author = {{Mechanismic Inc.},},
   title  = {SnappyXO Projects},
+  url    = {https://www.snappyxo.com/projects/},
 }
 
 @Misc{News,
@@ -20117,6 +20120,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   author = {{Code.org~Advocacy~Coalition},},
   title  = {2020 State of Computer Science Education:Illuminating Disparities},
   year   = {2020},
+  url    = {https://advocacy.code.org/2020_state_of_cs.pdf},
 }
 
 @Misc{Code.org2020,
