@@ -19862,9 +19862,9 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 @Misc{AmericanInstituteofPhysics2020a,
   author = {{American~Institute~of~Physics}},
   month  = nov,
-  note   = {{https://www.aip.org/fyi/2020/fy21-budget-outlook-stem-education}},
   title  = {FY21 Budget Outlook: STEM Education},
   year   = {2020},
+  url    = {https://www.aip.org/fyi/2020/fy21-budget-outlook-stem-education},
 }
 
 @Misc{AmericasFarmers,
@@ -20187,6 +20187,35 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   note   = {87736219},
   title  = {SnappyXO Product Trademark Application},
   year   = {2020},
+}
+
+@Article{p5Scribble,
+  author  = {Wood, J. and Isenberg, P. and Isenberg, T. and Dykes, J. and Boukhelifa, N. and Slingsby, A.},
+  journal = {IEEE Transactions on Visualizationand Computer Graphics},
+  title   = {{Sketchy Rendering for Information Visualization}},
+  year    = {2012},
+}
+
+@Article{RCNN,
+  author = {Girshick, R. and Donahue, J. and Darrell, T. and Malik, J.},
+  title  = {{Rich feature hierarchies for accurate object detection and semantic segmentation}},
+  year   = {2013},
+}
+
+@Article{selectiveSearch,
+  author  = {Uijlings, J. R. R. and van de Sande, K. E. A. and Gevers, T. and Smeulders, A. W. M.},
+  journal = {International Journal of Computer Vision},
+  title   = {{Selective Search for Object Recognition}},
+  year    = {2013},
+}
+
+@Article{,
+}
+
+@Article{kaiming,
+  author = {He, K. and Zhang, X. and Ren, S. and Sun, J.},
+  title  = {{Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification}},
+  year   = {2015},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
