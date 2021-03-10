@@ -20285,11 +20285,13 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 
 @Misc{shapingLatSpace,
   author        = {Alon Oring and Zohar Yakhini and Yacov Hel-Or},
+  note          = {https://arxiv.org/abs/2008.01487},
   title         = {{Autoencoder Image Interpolation by Shaping the Latent Space}},
   year          = {2020},
   archiveprefix = {arXiv},
   eprint        = {2008.01487},
   primaryclass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2008.01487},
 }
 
 @Article{3dML,
