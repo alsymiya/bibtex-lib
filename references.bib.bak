@@ -20075,7 +20075,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 @Misc{MechanismicInc.,
   author = {{Mechanismic Inc.},},
   title  = {ArduinoBlue},
-  url    = {https://sites.google.com/stonybrook.edu/arduinoble/},
+  url    = {https://play.google.com/store/apps/details?id=com.snappyxo.mobileapp&hl=en_US&gl=US},
 }
 
 @Misc{MechanismicInc.a,
@@ -20412,6 +20412,44 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 
 @Misc{magenta,
   url = {https://magenta.tensorflow.org/},
+}
+
+@Misc{vanillaAE,
+  author        = {Dor Bank and Noam Koenigstein and Raja Giryes},
+  title         = {Autoencoders},
+  year          = {2021},
+  archiveprefix = {arXiv},
+  eprint        = {2003.05991},
+  primaryclass  = {cs.LG},
+}
+
+@Misc{ellis2018learning,
+  author        = {Kevin Ellis and Daniel Ritchie and Armando Solar-Lezama and Joshua B. Tenenbaum},
+  title         = {Learning to Infer Graphics Programs from Hand-Drawn Images},
+  year          = {2018},
+  archiveprefix = {arXiv},
+  eprint        = {1707.09627},
+  primaryclass  = {cs.AI},
+}
+
+@Article{simpleSketch,
+  author     = {Simo-Serra, Edgar and Iizuka, Satoshi and Sasaki, Kazuma and Ishikawa, Hiroshi},
+  journal    = {ACM Trans. Graph.},
+  title      = {{Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup}},
+  year       = {2016},
+  issn       = {0730-0301},
+  month      = jul,
+  number     = {4},
+  volume     = {35},
+  abstract   = {In this paper, we present a novel technique to simplify sketch drawings based on learning a series of convolution operators. In contrast to existing approaches that require vector images as input, we allow the more general and challenging input of rough raster sketches such as those obtained from scanning pencil sketches. We convert the rough sketch into a simplified version which is then amendable for vectorization. This is all done in a fully automatic way without user intervention. Our model consists of a fully convolutional neural network which, unlike most existing convolutional neural networks, is able to process images of any dimensions and aspect ratio as input, and outputs a simplified sketch which has the same dimensions as the input image. In order to teach our model to simplify, we present a new dataset of pairs of rough and simplified sketch drawings. By leveraging convolution operators in combination with efficient use of our proposed dataset, we are able to train our sketch simplification model. Our approach naturally overcomes the limitations of existing methods, e.g., vector images as input and long computation time; and we show that meaningful simplifications can be obtained for many different test cases. Finally, we validate our results with a user study in which we greatly outperform similar approaches and establish the state of the art in sketch simplification of raster images.},
+  address    = {New York, NY, USA},
+  articleno  = {121},
+  doi        = {10.1145/2897824.2925972},
+  issue_date = {July 2016},
+  keywords   = {convolutional neural network, sketch simplification},
+  numpages   = {11},
+  publisher  = {Association for Computing Machinery},
+  url        = {https://doi.org/10.1145/2897824.2925972},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
