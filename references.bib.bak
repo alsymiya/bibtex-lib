@@ -20414,7 +20414,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   url = {https://magenta.tensorflow.org/},
 }
 
-@Misc{vanillaAE,
+@Article{vanillaAE,
   author        = {Dor Bank and Noam Koenigstein and Raja Giryes},
   title         = {Autoencoders},
   year          = {2021},
@@ -20423,9 +20423,9 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   primaryclass  = {cs.LG},
 }
 
-@Misc{ellis2018learning,
+@Article{ellis2018learning,
   author        = {Kevin Ellis and Daniel Ritchie and Armando Solar-Lezama and Joshua B. Tenenbaum},
-  title         = {Learning to Infer Graphics Programs from Hand-Drawn Images},
+  title         = {{Learning to Infer Graphics Programs from Hand-Drawn Images}},
   year          = {2018},
   archiveprefix = {arXiv},
   eprint        = {1707.09627},
@@ -20450,6 +20450,26 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   numpages   = {11},
   publisher  = {Association for Computing Machinery},
   url        = {https://doi.org/10.1145/2897824.2925972},
+}
+
+@InProceedings{dimensionalityReduction,
+  author    = {Janakiramaiah, B. and Kalyani, G. and Narayana, S. and Bala Murali Krishna, T.},
+  booktitle = {Smart Intelligent Computing and Applications},
+  title     = {{Reducing Dimensionality of Data Using Autoencoders}},
+  year      = {2020},
+  address   = {Singapore},
+  editor    = {Satapathy, Suresh Chandra and Bhateja, Vikrant and Mohanty, J. R. and Udgata, Siba K.},
+  pages     = {51--58},
+  publisher = {Springer Singapore},
+  abstract  = {Data dimensionality reduction is a long-standing pre-processing step in machine learning algorithms. Many of the efficient methods are devised to reduce the dimensionality of data very effectively; however, they are incapable of recovering the original data. But the autoencoders are effective not only in reducing the dimensionality but also reconstructing the original data. In this paper, we are attempting to explore the dimensionality reduction capability of autoencoders, and try to comprehend the difference between autoencoder and PCA dimensionality reduction methods. Experiments are conducted on both the methods using MNIST datasets. The results show that the autoencoder can indeed learn somewhat dissimilar from PCA method.},
+  isbn      = {978-981-32-9690-9},
+}
+
+@Misc{elbo,
+  author = {Xitong Yang},
+  month  = sep,
+  title  = {{Understanding the Variational Lower Bound}},
+  year   = {2017},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
