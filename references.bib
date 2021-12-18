@@ -20468,6 +20468,18 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   keywords    = {cs.CV, eess.IV},
 }
 
+@Article{mAP,
+  author      = {Paul Henderson and Vittorio Ferrari},
+  title       = {End-to-end training of object class detectors for mean average precision},
+  abstract    = {We present a method for training CNN-based object class detectors directly using mean average precision (mAP) as the training loss, in a truly end-to-end fashion that includes non-maximum suppression (NMS) at training time. This contrasts with the traditional approach of training a CNN for a window classification loss, then applying NMS only at test time, when mAP is used as the evaluation metric in place of classification accuracy. However, mAP following NMS forms a piecewise-constant structured loss over thousands of windows, with gradients that do not convey useful information for gradient descent. Hence, we define new, general gradient-like quantities for piecewise constant functions, which have wide applicability. We describe how to calculate these efficiently for mAP following NMS, enabling to train a detector based on Fast R-CNN directly for mAP. This model achieves equivalent performance to the standard Fast R-CNN on the PASCAL VOC 2007 and 2012 datasets, while being conceptually more appealing as the very same model and loss are used at both training and test time.},
+  date        = {2016-07-12},
+  eprint      = {1607.03476},
+  eprintclass = {cs.CV},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/1607.03476v2:PDF},
+  keywords    = {cs.CV},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
