@@ -11957,12 +11957,11 @@ splines (mathematics)},
    year = {2017}
 }
 
-@misc{purwar-patent,
-   author = {Purwar, A. and Galeotafiore, T. and Miles, J. and Renert, J.},
-   title = {Portable Six-Bar Apparatus For Lifting, Lowering and Self-Propelled Transit, U.S. Patent 8,468,622},
-   ISBN = {U.S. Patent 8,468,622},
-   year = {2013},
-
+@Misc{purwar-patent,
+  author = {Purwar, A. and Galeotafiore, T. and Miles, J. and Renert, J.},
+  note   = {U.S. Patent 8,468,622},
+  title  = {Portable Six-Bar Apparatus For Lifting, Lowering and Self-Propelled Transit},
+  year   = {2013},
 }
 
 @inproceedings{DETC2003/DAC-48817,
@@ -20347,13 +20346,199 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   url    = {http://3mc3pu3a8r0y2tbwjl479nd0.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/2015_04_02_ucsf_mobility_report.pdf},
 }
 
-@Misc{NeilRussel2016,
-  author = {Neil Russel, J and Hendershot, G and Leclere, F and Howie, Jean and null, L},
-  title  = {Trends and Differential Use of Assistive Technology Devices},
-  year   = {2016},
+@Article{NeilRussel2016,
+  author  = {Russell JN, Hendershot GE, LeClere F, Howie LJ, Adler M.},
+  journal = {Adv Data. 1997},
+  title   = {Trends and differential use of assistive technology devices: United States, 1994.},
+  year    = {1994},
+  month   = nov,
+  note    = {PMID: 10182811.},
+  number  = {292},
+  pages   = {1-9},
 }
 
 @Article{Lipscomb2002,
   author  = {Lipscomb, J and Geiger-Brown, J and Brady, B},
   journal = {American Journal of Industrial Medicine},
-  title   = {Musc
+  title   = {Musculoskeletal problems of the neck, shoulder, and back and functional consequences in nurses},
+  year    = {2002},
+}
+
+@Misc{Sara,
+  note  = {https://www.medicaleshop.com/arjohuntleigh-sara-flex-powered-standing-and-raising-aid.html},
+  title = {ArjoHuntleigh Sara 3000 Power Stand Up Patient Lift},
+  year  = {2016},
+}
+
+@Misc{Hypermesh2016,
+  author = {Hypermesh, Altair},
+  year   = {2016},
+  url    = {http://www.altairhyperworks.com},
+}
+
+@Article{Abaqus,
+  journal = {Abaqus Unified FEA},
+  year    = {2016},
+  url     = {https://www.3ds.com/products-services/simulia/products/abaqus},
+}
+
+@Misc{Linak,
+  author = {Linak},
+  title  = {LA31 Techline Linear Actuator},
+  year   = {2016},
+  pages  = {31},
+  url    = {http://www.linak-us.com/products/linear-actuators.aspx?product=LA31 TECHLINE},
+}
+
+@Article{Mises1913,
+  author  = {Mises, Von and null, R},
+  journal = {Gttin. Nachr. Math. Phys},
+  title   = {Mechanik der festen Krper im plastisch deformablen Zustand},
+  year    = {1913},
+  pages   = {582592},
+  volume  = {1},
+}
+
+@InBook{Ford1963,
+  author    = {Ford},
+  year      = {1963},
+  address   = {London},
+  booktitle = {Advanced Mechanics of Materials, Longmans},
+}
+
+@Article{Biggs2014,
+  author  = {Biggs, John},
+  journal = {HERDSA Review of Higher Education},
+  title   = {Constructive Alignment in University Teaching},
+  year    = {2014},
+  pages   = {5-22},
+  volume  = {1},
+}
+
+@Article{Kerr2008,
+  author  = {Andy Kerr and Philippa Dall and Cormac Ryan},
+  journal = {Applied Ergonomics},
+  title   = {Frequency of the sit-to-stand task: a pilot study of free-living adults},
+  year    = {2010},
+  issn    = {0003-6870},
+  note    = {https://doi.org/10.1016/j.apergo.2009.04.005},
+  number  = {1},
+  pages   = {58-61},
+  volume  = {41},
+  doi     = {10.1002/pri.410},
+}
+
+@Misc{Statista,
+  author = {Statista},
+  note   = {https://www.statista.com/statistics/457822/share-of-old-age-population-in-the-total-us-population/},
+  title  = {U.S. - Seniors as a Percentage of the Population 2050.},
+  year   = {2021},
+}
+
+@Patent{purwar-patent-fourbar,
+  number     = {10,130,535},
+  year       = {2018},
+  yearfiled  = {2013},
+  assignee   = {Research Foundation of State University of New York},
+  author     = {Anurag Purwar and Bipin Birari},
+  dayfiled   = {04},
+  monthfiled = apr,
+  title      = {Four bar apparatus and method for lifting, lowering, exercise and self-propelled transit},
+  url        = {https://patents.google.com/patent/US10130535B2/en?oq=10,130,535},
+}
+
+@Misc{biodex-mobilityassist,
+  author = {Biodex},
+  title  = {Biodex Mobility Assist},
+  url    = {https://www.biodex.com/physical-medicine/products/supported-ambulation/new-mobility-assist},
+}
+
+@Article{Blair2016,
+  author   = {Erik Blair and Chris Maharaj and Simone Primus},
+  journal  = {Education and Information Technologies},
+  title    = {Performance and perception in the flipped classroom},
+  year     = {2016},
+  issn     = {1573-7608},
+  number   = {6},
+  pages    = {1465--1482},
+  volume   = {21},
+  abstract = {Changes in the conceptualisation of higher education have led to instructional methods that embrace technology as a teaching medium. These changes have led to the flipped classroom phenomenon - where content is delivered outside class, through media such as video and podcast, and engagement with the content, through problem-solving and/or group work, occurs in class. Studies investigating the impact of the flipped classroom have mainly looked at the student experience with little focus on whether exam outcomes are enhanced by flipping. An undergraduate Material Technology course at The University of the West Indies was taught in two formats over two successive years. The course was taught during the 2012/13 academic year in a ‘traditional’ format but, after reflecting on student feedback and personal pedagogy, the lecturer restructured the class and taught it in a flipped format during the 2013/14 academic year. This research examines whether the flipped format improved the learning experience in relation to exam performance and student perception. Data was gathered through analysis of course grades and student evaluation questionnaires. The lecturer’s reflective comments were also reviewed before and after the study. Analysis of the qualitative data shows that the flipped format led to a slight improvement in how students perceived the course and the lecturer’s reflection shows that they are keen to continue with the flipped format as it allowed more time for them to work with students at an individual level. While no significant change in relation to average cohort exam performance was found, fewer students in the flipped classroom achieved marks at the highest level. It is therefore recommended that practitioners who intend to flip their classroom pay as much attention to student performance as they do to student perception.},
+  doi      = {10.1007/s10639-015-9393-5},
+  refid    = {Blair2016},
+  url      = {https://doi.org/10.1007/s10639-015-9393-5},
+}
+
+@Misc{Armstrong2010,
+  author = {P. Armstrong},
+  note   = {Retrieved 12/24/2021 from https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy},
+  title  = {Bloom’s Taxonomy. Vanderbilt University Center for Teaching},
+  year   = {2010},
+  date   = {2010},
+}
+
+@Article{,
+  author  = {John Biggs},
+  journal = {HERDSA Review of Higher Education},
+  title   = {Constructive alignment in university teaching},
+  year    = {2014},
+}
+
+@Article{Biggs1996,
+  author  = {John Biggs},
+  journal = {Higher Education},
+  title   = {Enhancing teaching through constructive alignment},
+  year    = {1996},
+  pages   = {347-364},
+  volume  = {32},
+}
+
+@Article{Garrison2000,
+  author  = {Randy D. Garrison and Terry Anderson and Walter Archer},
+  journal = {The Internet and Higher Education},
+  title   = {Critical inquiry in a text-based environment: Computer conferencing in higher education model},
+  year    = {2000},
+  number  = {(2-3)},
+  pages   = {87-105},
+  volume  = {2},
+}
+
+@Article{Garrison2010,
+  author  = {Randy D. Garrison and Terry Anderson and Walter Archer},
+  journal = {The Internet and Higher Education},
+  title   = {The first decade of the community of inquiry framework: A retrospective},
+  year    = {2010},
+  pages   = {5-9},
+  volume  = {13(1-2)},
+}
+
+@Article{Gobet2005,
+  author  = {Fernand Gobet},
+  journal = {Applied Cognitive Psychology},
+  title   = {Chunking models of expertise: Implications for Education},
+  year    = {2005},
+  number  = {2},
+  pages   = {183-204},
+  volume  = {19},
+}
+
+@Misc{rsi2021,
+  author = {Online Learning Consortium},
+  note   = {retrieved Dec 24, 2021 from https://eric.ed.gov/?id=ED593878},
+  title  = {Regular and Substantive Interaction: Background, Concerns, and Guiding Principle},
+  year   = {2021},
+}
+
+@Article{,
+}
+
+@Article{Gell2015,
+  author   = {Gell, Nancy M. and Wallace, Robert B. and LaCroix, Andrea Z. and Mroz, Tracy M. and Patel, Kushang V.},
+  journal  = {Journal of the American Geriatrics Society},
+  title    = {Mobility device use in older adults and incidence of falls and worry about falling: findings from the 2011-2012 national health and aging trends study},
+  year     = {2015},
+  issn     = {0002-8614},
+  month    = may,
+  number   = {25953070},
+  pages    = {853--859},
+  volume   = {63},
+  abstract = {OBJECTIVES: To examine the prevalence of mobility device use in community-dwelling older adults in the United States and to investigate the incidence of falls and worry about falling according to type and number of mobility devices used. DESIGN: Analysis of cross-sectional and longitudinal data from the 2011-12 National Health and Aging Trends Study. SETTING: In-person interviews in the homes of study participants. PARTICIPANTS: Nationally representative sample of Medicare beneficiaries (n=7,609). MEASUREMENTS: Participants were asked about mobility device use (e.g., canes, walkers, wheelchair
