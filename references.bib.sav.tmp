@@ -20528,9 +20528,6 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   year   = {2021},
 }
 
-@Article{,
-}
-
 @Article{Gell2015,
   author   = {Gell, Nancy M. and Wallace, Robert B. and LaCroix, Andrea Z. and Mroz, Tracy M. and Patel, Kushang V.},
   journal  = {Journal of the American Geriatrics Society},
@@ -20541,4 +20538,76 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   number   = {25953070},
   pages    = {853--859},
   volume   = {63},
-  abstract = {OBJECTIVES: To examine the prevalence of mobility device use in community-dwelling older adults in the United States and to investigate the incidence of falls and worry about falling according to type and number of mobility devices used. DESIGN: Analysis of cross-sectional and longitudinal data from the 2011-12 National Health and Aging Trends Study. SETTING: In-person interviews in the homes of study participants. PARTICIPANTS: Nationally representative sample of Medicare beneficiaries (n=7,609). MEASUREMENTS: Participants were asked about mobility device use (e.g., canes, walkers, wheelchair
+  abstract = {OBJECTIVES: To examine the prevalence of mobility device use in community-dwelling older adults in the United States and to investigate the incidence of falls and worry about falling according to type and number of mobility devices used. DESIGN: Analysis of cross-sectional and longitudinal data from the 2011-12 National Health and Aging Trends Study. SETTING: In-person interviews in the homes of study participants. PARTICIPANTS: Nationally representative sample of Medicare beneficiaries (n=7,609). MEASUREMENTS: Participants were asked about mobility device use (e.g., canes, walkers, wheelchairs and scooters) in the last month, 1-year fall history and worry about falling. RESULTS: Twenty-four percent of adults aged 65 and older reported mobility device use in 2011, and 9.3% reported using multiple devices within the last month. Mobility device use increased with advancing age and was associated with nonwhite race and ethnicity, female sex, lower education level, greater multimorbidity, and obesity (all P<.001). Adjusting for demographic and health characteristics and physical function, the incidence of falls and recurrent falls was not associated with the use of multiple devices or any particular type of mobility device. Activity-limiting worry about falling was significantly higher in cane-only users than in nonusers. CONCLUSION: The percentage of older adults reporting mobility device use is higher than results from previous national surveys, and multiple device use is common in those who use any device. Mobility device use is not associated with greater incidence of falls. Cane-only users may compensate for worry about falling by limiting activity.},
+  comment  = {25953070[pmid]
+PMC4439269[pmcid]},
+  database = {PubMed},
+  doi      = {10.1111/jgs.13393},
+  edition  = {2015/05/06},
+  keywords = {falls, mobility devices, worry about falls, Accidental Falls/*statistics & numerical data, Aged, 80 and over, Anxiety/*epidemiology, Canes/*statistics & numerical data, Cross-Sectional Studies, Female, Health Surveys, Humans, Incidence, Longitudinal Studies, Male, Walkers/*statistics & numerical data, Wheelchairs/*statistics & numerical data},
+  language = {eng},
+  url      = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439269/},
+}
+
+@Article{10.1115/1.4046474,
+  author   = {Ghosh, Shramana and Robson, Nina P. and McCarthy, J. Michael},
+  journal  = {Journal of Engineering and Science in Medical Diagnostics and Therapy},
+  title    = {{Kinematic Design and Evaluation of a Six-Bar Knee-Ankle-Foot Orthosis}},
+  year     = {2020},
+  issn     = {2572-7958},
+  month    = {03},
+  note     = {021111},
+  number   = {2},
+  volume   = {3},
+  abstract = {{This paper presents a new two-step design procedure and preliminary kinematic evaluation of a novel, passive, six-bar knee-ankle-foot orthosis (KAFO). The kinematic design and preliminary kinematic gait analysis of the KAFO are based on motion capture data from a single healthy male subject. Preliminary kinematic evaluation shows that the designed passive KAFO is capable of supporting flexion and extension of the knee joint during stance and swing phases of walking. The two-step design procedure for the KAFO consists of (1) computational synthesis based on user's motion data and (2) performance optimization. In the computational synthesis step, first the lower leg (knee-ankle-foot) of the subject is approximated as a 2R kinematic chain and its target trajectories are specified from motion capture data. Six-bar linkages are synthesized to coordinate the angular movements of knee and ankle joints of the 2R chain at 11 accuracy points. The first step of the design procedure yields 332 six-bar KAFO design candidates. This is followed by a performance optimization step in which the KAFO design candidates are optimally modified to satisfy specified constraints on end-effector trajectory and shape. This two-step process yields an optimally designed passive six-bar KAFO that shows promising kinematic results at the knee joint of the user during walking. The preliminary prototype manufactured is cost effective, easy to operate, and suitably demonstrates the feasibility of the proposed concept.}},
+  doi      = {10.1115/1.4046474},
+  eprint   = {https://asmedigitalcollection.asme.org/medicaldiagnostics/article-pdf/3/2/021111/6526293/jesmdt\_003\_02\_021111.pdf},
+  url      = {https://doi.org/10.1115/1.4046474},
+}
+
+@Article{10.1115/1.4050150,
+  author   = {Zhao, Ping and Zhang, Yating and Guan, Haiwei and Deng, Xueting and Chen, Haodong},
+  journal  = {Journal of Mechanisms and Robotics},
+  title    = {{Design of a Single-Degree-of-Freedom Immersive Rehabilitation Device for Clustered Upper-Limb Motion}},
+  year     = {2021},
+  issn     = {1942-4302},
+  month    = {03},
+  note     = {031006},
+  number   = {3},
+  volume   = {13},
+  abstract = {{This paper presents a linkage system designed to guide a natural ankle trajectory with the corresponding foot orientation. A six-bar linkage was designed to coordinate the joint angles of an RR chain (R denotes a revolute or hinged joint) that models the leg to achieve the desired ankle trajectory. The design is shown to be adjustable to meet a range of trajectories obtained in an individual's normal gait. Control of the foot position is obtained using a cam-driven parallel chain that has the same input as the six-bar linkage. The design of the linkage was carried out using linkage synthesis theory and optimization methods. The result is a one degree-of-freedom system that guides a natural walking movement of the leg and foot. A solid model of the complete device is presented. The results of this research provide a procedure that focuses on the kinematics and mechanical design of a device named the UCI gait mechanism.}},
+  doi      = {10.1115/1.4050150},
+  eprint   = {https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/13/3/031006/6693400/jmr\_13\_3\_031006.pdf},
+  url      = {https://doi.org/10.1115/1.4050150},
+}
+
+@Article{10.1115/1.4051788,
+  author   = {Yu, Chennan and Ye, Jun and Jia, Jiangming and Zhao, Xiong and Chen, Zhiwei and Chen, Jianneng},
+  journal  = {Journal of Mechanisms and Robotics},
+  title    = {{Design, Synthesis, and Experiment of Foot-Driven Lower Limb Rehabilitation Mechanisms}},
+  year     = {2021},
+  issn     = {1942-4302},
+  month    = {09},
+  note     = {021001},
+  number   = {2},
+  volume   = {14},
+  abstract = {{A foot-driven rehabilitation mechanism is suitable for home healthcare due to its advantages of simplicity, effectiveness, small size, and low price. However, most of the existing studies on lower limb rehabilitation movement only consider the trajectory of the ankle joint and ignore the influence of its posture angle, which makes it difficult to ensure the rotation requirements of the ankle joint and achieve a better rehabilitation effect. Aiming at the shortcomings of the current research, this article proposes a new single degree-of-freedom (DOF) configuration that uses a noncircular gear train to constrain the three revolute joints (3R) open-chain linkage and expounds its dimensional synthesis method. Then, a parameter optimization model of the mechanism is established, and the genetic algorithm is used to optimize the mechanism parameters. According to the eight groups of key poses and position points of the ankle joint and the toe, the different configurations of the rehabilitation mechanism are synthesized and compared, and it is concluded that the newly proposed 3R open-chain noncircular gear-linkage mechanism exhibits better performance. Finally, combined with the requirements of rehabilitation training, a lower limb rehabilitation training device is designed based on this new configuration, and a prototype is developed and tested. The test results show that the device can meet the requirements of the key position points and posture angles of the ankle joint and the toe and verify the correctness of the proposed dimensional synthesis and optimization methods.}},
+  doi      = {10.1115/1.4051788},
+  eprint   = {https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/14/2/021001/6759402/jmr\_14\_2\_021001.pdf},
+  url      = {https://doi.org/10.1115/1.4051788},
+}
+
+@Article{,
+}
+
+@Article{10.1115/1.4043459,
+  author   = {Zhao, Ping and Zhu, Lihong and Zi, Bin and Li, Xiangyun},
+  journal  = {Journal of Mechanisms and Robotics},
+  title    = {{Design of Planar 1-DOF Cam-Linkages for Lower-Limb Rehabilitation Via Kinematic-Mapping Motion Synthesis Framework}},
+  year     = {2019},
+  issn     = {1942-4302},
+  month    = {05},
+  note     = {041006},
+  number   = {4},
+  volume   = {11},
+  abstract = {{When designing linkage mechanisms for moti
