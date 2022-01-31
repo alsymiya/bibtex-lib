@@ -17068,16 +17068,18 @@ year = {1951}
    publisher={Elsevier}
  }
 
- @article{tsuge2016adjustable,
-   title={An adjustable single degree-of-freedom system to guide natural walking movement for rehabilitation},
-   author={Tsuge, Brandon Y and McCarthy, J Michael},
-   journal={Journal of Medical Devices},
-   volume={10},
-   number={4},
-   pages={044501},
-   year={2016},
-   publisher={American Society of Mechanical Engineers}
- }
+ 
+@Article{tsuge2016adjustable,
+  author    = {Tsuge, Brandon Y and McCarthy, J Michael},
+  journal   = {Journal of Medical Devices},
+  title     = {An adjustable single degree-of-freedom system to guide natural walking movement for rehabilitation},
+  year      = {2016},
+  number    = {4},
+  pages     = {044501},
+  volume    = {10},
+  abstract  = {{Capture motion/sample points with a threadmill, and solve a set of equation for six-bar mechanism}},
+  publisher = {American Society of Mechanical Engineers},
+}
 
  @article{fushiki2011estimation,
    title={Estimation of prediction error by using K-fold cross-validation},
@@ -17866,13 +17868,14 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 }
 
 @Article{loya-jcise,
-  author  = {Loya, Amol and Deshpande, Shrinath and Purwar, Anurag},
-  title   = {Machine Learning Driven Individualized Gait Rehabilitation: Classification, Prediction, and Mechanism Design},
-  journal = {ASME Journal of Engineering and Science in Medical Diagnostics and Therapy},
-  year    = {2020},
-  volume  = {3},
-  month   = {02},
-  doi     = {10.1115/1.4046321},
+  author   = {Loya, Amol and Deshpande, Shrinath and Purwar, Anurag},
+  journal  = {ASME Journal of Engineering and Science in Medical Diagnostics and Therapy},
+  title    = {Machine Learning Driven Individualized Gait Rehabilitation: Classification, Prediction, and Mechanism Design},
+  year     = {2020},
+  month    = {02},
+  volume   = {3},
+  abstract = {{**Raw curve (Gait Prediction Models/ANN)-> Classification of curve type, Body parameter -> Predicted coupler curve. Pass coupler curve to C-VAE, C-VAE outputs all mechanism parameters. ** This paper presents a machine learning-based approach toward designing individually targeted rehabilitation devices. This approach consists of a classification model for early detection of a disease, regression, and artificial neural networks (ANNs) models to predict the target rehabilitation gait for a specific individual, and finally a generative approach for the conditional synthesis of single degree-of-freedom linkage mechanisms for gait rehabilitation. Design of mechanisms for human–machine interaction involves numerous subjective criteria and constraints in addition to the motion task. This is particularly important for the rehabilitation devices, where the size, complexity, weight, cost, and ease of use are critical factors. In this paper, we present an end-to-end computational approach for developing a device for individualized gait rehabilitation using machine learning techniques focusing on gait classification, prediction, and specialized device design. These models generate a distribution of linkage mechanisms, which strongly correlate to the distribution of target path variations. This way of formulating the problem results in a large variety of solutions to which subjective criteria can be applied to yield practically useful design concepts that would otherwise not be possible using traditional synthesis methods.}},
+  doi      = {10.1115/1.4046321},
 }
 
 @Article{Sharma2020,
@@ -20559,7 +20562,7 @@ PMC4439269[pmcid]},
   note     = {021111},
   number   = {2},
   volume   = {3},
-  abstract = {{This paper presents a new two-step design procedure and preliminary kinematic evaluation of a novel, passive, six-bar knee-ankle-foot orthosis (KAFO). The kinematic design and preliminary kinematic gait analysis of the KAFO are based on motion capture data from a single healthy male subject. Preliminary kinematic evaluation shows that the designed passive KAFO is capable of supporting flexion and extension of the knee joint during stance and swing phases of walking. The two-step design procedure for the KAFO consists of (1) computational synthesis based on user's motion data and (2) performance optimization. In the computational synthesis step, first the lower leg (knee-ankle-foot) of the subject is approximated as a 2R kinematic chain and its target trajectories are specified from motion capture data. Six-bar linkages are synthesized to coordinate the angular movements of knee and ankle joints of the 2R chain at 11 accuracy points. The first step of the design procedure yields 332 six-bar KAFO design candidates. This is followed by a performance optimization step in which the KAFO design candidates are optimally modified to satisfy specified constraints on end-effector trajectory and shape. This two-step process yields an optimally designed passive six-bar KAFO that shows promising kinematic results at the knee joint of the user during walking. The preliminary prototype manufactured is cost effective, easy to operate, and suitably demonstrates the feasibility of the proposed concept.}},
+  abstract = {{**Two step procedure, first, given the motion data, compute a prototype using algebra. Then pick 11 precise points and use optimization over an error function to get several prototypes. The remaining section is comparing the prototypes.**  This paper presents a new two-step design procedure and preliminary kinematic evaluation of a novel, passive, six-bar knee-ankle-foot orthosis (KAFO). The kinematic design and preliminary kinematic gait analysis of the KAFO are based on motion capture data from a single healthy male subject. Preliminary kinematic evaluation shows that the designed passive KAFO is capable of supporting flexion and extension of the knee joint during stance and swing phases of walking. The two-step design procedure for the KAFO consists of (1) computational synthesis based on user's motion data and (2) performance optimization. In the computational synthesis step, first the lower leg (knee-ankle-foot) of the subject is approximated as a 2R kinematic chain and its target trajectories are specified from motion capture data. Six-bar linkages are synthesized to coordinate the angular movements of knee and ankle joints of the 2R chain at 11 accuracy points. The first step of the design procedure yields 332 six-bar KAFO design candidates. This is followed by a performance optimization step in which the KAFO design candidates are optimally modified to satisfy specified constraints on end-effector trajectory and shape. This two-step process yields an optimally designed passive six-bar KAFO that shows promising kinematic results at the knee joint of the user during walking. The preliminary prototype manufactured is cost effective, easy to operate, and suitably demonstrates the feasibility of the proposed concept.}},
   doi      = {10.1115/1.4046474},
   eprint   = {https://asmedigitalcollection.asme.org/medicaldiagnostics/article-pdf/3/2/021111/6526293/jesmdt\_003\_02\_021111.pdf},
   url      = {https://doi.org/10.1115/1.4046474},
@@ -20575,7 +20578,7 @@ PMC4439269[pmcid]},
   note     = {031006},
   number   = {3},
   volume   = {13},
-  abstract = {{This paper presents a linkage system designed to guide a natural ankle trajectory with the corresponding foot orientation. A six-bar linkage was designed to coordinate the joint angles of an RR chain (R denotes a revolute or hinged joint) that models the leg to achieve the desired ankle trajectory. The design is shown to be adjustable to meet a range of trajectories obtained in an individual's normal gait. Control of the foot position is obtained using a cam-driven parallel chain that has the same input as the six-bar linkage. The design of the linkage was carried out using linkage synthesis theory and optimization methods. The result is a one degree-of-freedom system that guides a natural walking movement of the leg and foot. A solid model of the complete device is presented. The results of this research provide a procedure that focuses on the kinematics and mechanical design of a device named the UCI gait mechanism.}},
+  abstract = {{**Collect data, cluster points such that they become an ordered sequence of points (coupler curve), and solve this using algebraic fitting. ** This paper presents a linkage system designed to guide a natural ankle trajectory with the corresponding foot orientation. A six-bar linkage was designed to coordinate the joint angles of an RR chain (R denotes a revolute or hinged joint) that models the leg to achieve the desired ankle trajectory. The design is shown to be adjustable to meet a range of trajectories obtained in an individual's normal gait. Control of the foot position is obtained using a cam-driven parallel chain that has the same input as the six-bar linkage. The design of the linkage was carried out using linkage synthesis theory and optimization methods. The result is a one degree-of-freedom system that guides a natural walking movement of the leg and foot. A solid model of the complete device is presented. The results of this research provide a procedure that focuses on the kinematics and mechanical design of a device named the UCI gait mechanism.}},
   doi      = {10.1115/1.4050150},
   eprint   = {https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/13/3/031006/6693400/jmr\_13\_3\_031006.pdf},
   url      = {https://doi.org/10.1115/1.4050150},
@@ -20591,13 +20594,10 @@ PMC4439269[pmcid]},
   note     = {021001},
   number   = {2},
   volume   = {14},
-  abstract = {{A foot-driven rehabilitation mechanism is suitable for home healthcare due to its advantages of simplicity, effectiveness, small size, and low price. However, most of the existing studies on lower limb rehabilitation movement only consider the trajectory of the ankle joint and ignore the influence of its posture angle, which makes it difficult to ensure the rotation requirements of the ankle joint and achieve a better rehabilitation effect. Aiming at the shortcomings of the current research, this article proposes a new single degree-of-freedom (DOF) configuration that uses a noncircular gear train to constrain the three revolute joints (3R) open-chain linkage and expounds its dimensional synthesis method. Then, a parameter optimization model of the mechanism is established, and the genetic algorithm is used to optimize the mechanism parameters. According to the eight groups of key poses and position points of the ankle joint and the toe, the different configurations of the rehabilitation mechanism are synthesized and compared, and it is concluded that the newly proposed 3R open-chain noncircular gear-linkage mechanism exhibits better performance. Finally, combined with the requirements of rehabilitation training, a lower limb rehabilitation training device is designed based on this new configuration, and a prototype is developed and tested. The test results show that the device can meet the requirements of the key position points and posture angles of the ankle joint and the toe and verify the correctness of the proposed dimensional synthesis and optimization methods.}},
+  abstract = {{**Using algebraic fitting, with some constraints added, the mechanism parameters are obtained. The remaining sections are about making the prototype and reviewing it. ** A foot-driven rehabilitation mechanism is suitable for home healthcare due to its advantages of simplicity, effectiveness, small size, and low price. However, most of the existing studies on lower limb rehabilitation movement only consider the trajectory of the ankle joint and ignore the influence of its posture angle, which makes it difficult to ensure the rotation requirements of the ankle joint and achieve a better rehabilitation effect. Aiming at the shortcomings of the current research, this article proposes a new single degree-of-freedom (DOF) configuration that uses a noncircular gear train to constrain the three revolute joints (3R) open-chain linkage and expounds its dimensional synthesis method. Then, a parameter optimization model of the mechanism is established, and the genetic algorithm is used to optimize the mechanism parameters. According to the eight groups of key poses and position points of the ankle joint and the toe, the different configurations of the rehabilitation mechanism are synthesized and compared, and it is concluded that the newly proposed 3R open-chain noncircular gear-linkage mechanism exhibits better performance. Finally, combined with the requirements of rehabilitation training, a lower limb rehabilitation training device is designed based on this new configuration, and a prototype is developed and tested. The test results show that the device can meet the requirements of the key position points and posture angles of the ankle joint and the toe and verify the correctness of the proposed dimensional synthesis and optimization methods.}},
   doi      = {10.1115/1.4051788},
   eprint   = {https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/14/2/021001/6759402/jmr\_14\_2\_021001.pdf},
   url      = {https://doi.org/10.1115/1.4051788},
-}
-
-@Article{,
 }
 
 @Article{10.1115/1.4043459,
@@ -20626,7 +20626,7 @@ PMC4439269[pmcid]},
   note     = {021105},
   number   = {2},
   volume   = {3},
-  abstract = {{This paper presents a machine learning-based approach toward designing individually targeted rehabilitation devices. This approach consists of a classification model for early detection of a disease, regression, and artificial neural networks (ANNs) models to predict the target rehabilitation gait for a specific individual, and finally a generative approach for the conditional synthesis of single degree-of-freedom linkage mechanisms for gait rehabilitation. Design of mechanisms for human–machine interaction involves numerous subjective criteria and constraints in addition to the motion task. This is particularly important for the rehabilitation devices, where the size, complexity, weight, cost, and ease of use are critical factors. In this paper, we present an end-to-end computational approach for developing a device for individualized gait rehabilitation using machine learning techniques focusing on gait classification, prediction, and specialized device design. These models generate a distribution of linkage mechanisms, which strongly correlate to the distribution of target path variations. This way of formulating the problem results in a large variety of solutions to which subjective criteria can be applied to yield practically useful design concepts that would otherwise not be possible using traditional synthesis methods.}},
+  abstract = {{Raw curve (Gait Prediction Models/ANN)-> Classification of curve type, Body parameter -> Predicted coupler curve. Pass coupler curve to C-VAE, C-VAE outputs all mechanism parameters. }},
   doi      = {10.1115/1.4046321},
   eprint   = {https://asmedigitalcollection.asme.org/medicaldiagnostics/article-pdf/3/2/021105/6512110/jesmdt\_003\_02\_021105.pdf},
   url      = {https://doi.org/10.1115/1.4046321},
