@@ -20616,22 +20616,6 @@ PMC4439269[pmcid]},
   url      = {https://doi.org/10.1115/1.4043459},
 }
 
-@Article{10.1115/1.4046321,
-  author   = {Loya, Amol and Deshpande, Shrinath and Purwar, Anurag},
-  journal  = {Journal of Engineering and Science in Medical Diagnostics and Therapy},
-  title    = {{Machine Learning-Driven Individualized Gait Rehabilitation: Classification, Prediction, and Mechanism Design}},
-  year     = {2020},
-  issn     = {2572-7958},
-  month    = {03},
-  note     = {021105},
-  number   = {2},
-  volume   = {3},
-  abstract = {{Raw curve (Gait Prediction Models/ANN)-> Classification of curve type, Body parameter -> Predicted coupler curve. Pass coupler curve to C-VAE, C-VAE outputs all mechanism parameters. }},
-  doi      = {10.1115/1.4046321},
-  eprint   = {https://asmedigitalcollection.asme.org/medicaldiagnostics/article-pdf/3/2/021105/6512110/jesmdt\_003\_02\_021105.pdf},
-  url      = {https://doi.org/10.1115/1.4046321},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
