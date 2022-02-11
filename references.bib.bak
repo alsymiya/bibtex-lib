@@ -20599,6 +20599,7 @@ PMC4439269[pmcid]},
   url      = {https://doi.org/10.1115/1.4043459},
 }
 
+
 @Article{Pittinsky2015,
   author  = {Pittinsky, Todd and Diamante, Nicole},
   journal = {Phi Delta Kappan},
@@ -20854,6 +20855,45 @@ PMC4439269[pmcid]},
   keywords = {Choice (Psychology), College students, Decision making},
   language = {English},
   url      = {https://link.gale.com/apps/doc/A179348418/AONE?u=nysl_oweb&sid=googleScholar&xid=bad427de},
+
+@InProceedings{berndt1994using,
+  author       = {Berndt, Donald J and Clifford, James},
+  booktitle    = {Proc. of AAAI Workshop on Knowledge Discovery in Databases},
+  title        = {Using Dynamic Time Warping to Find Patterns in Time Series.},
+  year         = {1994},
+  organization = {Seattle, WA},
+  pages        = {359--370},
+}
+
+@Proceedings{10.1115/DETC2017-67470,
+  title    = {{A Novel Six-Bar Mechanism for Executing Motion Trajectories of Sit-to-Stand Transformation in a Multifunctional Mobility Assist Device}},
+  year     = {2017},
+  month    = {08},
+  note     = {V05AT08A060},
+  series   = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+  volume   = {Volume 5A: 41st Mechanisms and Robotics Conference},
+  abstract = {{This paper presents a novel six-bar Sit-to-Stand (STS) linkage mechanism integrated in a multi-functional assistive device1, that helps improve mobility of individuals with lower extremity weaknesses. The six-bar linkage follows the J-shaped trajectory of the shoulder-joint and maintains orientation of the supporting bar for the comfort and ergonomics. An overall goal was to design a device that is comfortable to the user during STS transformation, compact, light-weight, portable and one that requires minimum number of external actuators. By following the natural posture and movement of certain joints, a biomechanically correct STS motion is achieved. A natural motion ensures minimum stresses on joints and muscles and if the user can move their legs, they can undergo ambulation therapy and stimulate functional neural pathways. Dynamic analysis is done on the mechanism to design a frame and to select actuators for lifting a person weighing 300lbs. The device was tried by individuals with lower extremity weaknesses and the results showed that it lifts users well and also helps balance and stabilize them during ambulation.}},
+  author   = {Purwar, Anurag and Jadhav, Akshay},
+  doi      = {10.1115/DETC2017-67470},
+  eprint   = {https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-pdf/IDETC-CIE2017/58172/V05AT08A060/2474301/v05at08a060-detc2017-67470.pdf},
+  url      = {https://doi.org/10.1115/DETC2017-67470},
+}
+
+@Article{10.1115/1.4052442,
+  author   = {Nobari, Amin Heyrani and Chen, Wei and Ahmed, Faez},
+  journal  = {Journal of Mechanical Design},
+  title    = {{Range-Constrained Generative Adversarial Network: Design Synthesis Under Constraints Using Conditional Generative Adversarial Networks}},
+  year     = {2021},
+  issn     = {1050-0472},
+  month    = {10},
+  note     = {021708},
+  number   = {2},
+  volume   = {144},
+  abstract = {{Typical engineering design tasks require the effort to modify designs iteratively until they meet certain constraints, i.e., performance or attribute requirements. Past work has proposed ways to solve the inverse design problem, where desired designs are directly generated from specified requirements, thus avoiding the trial and error process. Among those approaches, the conditional deep generative model shows great potential since (1) it works for complex high-dimensional designs and (2) it can generate multiple alternative designs given any range condition. In this work, we propose a conditional deep generative model, range-constrained generative adversarial network, to achieve automatic design synthesis subject to range constraints. The proposed model addresses the sparse conditioning issue in data-driven inverse design problems by introducing a label-aware self-augmentation approach. We also propose a new uniformity loss to ensure the generated designs evenly cover the given requirement range. Through a real-world example of constrained 3D shape generation, we show that the label-aware self-augmentation leads to an average improvement of 14\\% on the constraint satisfaction for generated 3D shapes, and the uniformity loss leads to a 125\\% average increase on the uniformity of generated shapes’ attributes. This work laid the foundation for data-driven inverse design problems where we consider range constraints and there are sparse regions in the condition space.}},
+  doi      = {10.1115/1.4052442},
+  eprint   = {https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/144/2/021708/6768330/md\_144\_2\_021708.pdf},
+  url      = {https://doi.org/10.1115/1.4052442},
+
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
