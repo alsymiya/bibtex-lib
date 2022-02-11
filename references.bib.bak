@@ -3863,15 +3863,6 @@ paths},
    year = {1991}
 }
 
-@book{erdman,
-   author = {Erdman, A. G. and Sandor, G. N.},
-   title = {Mechanism Design: Analysis and Synthesis},
-   publisher = {Prentice Hall},
-   address = {NJ},
-   edition = {3rd},
-   year = {1997}
-}
-
 @Article{Eriksrud2003,
   author   = {Eriksrud, O. and Bohannon, R. W.},
   title    = {Relationship of knee extension force to independence in sit-to-stand performance in patients receiving acute rehabilitation},
@@ -17058,7 +17049,7 @@ year = {1951}
   number    = {4},
   pages     = {044501},
   volume    = {10},
-  abstract  = {{Capture motion/sample points with a threadmill, and solve a set of equation for six-bar mechanism}},
+  abstract  = {This paper presents a linkage system designed to guide a natural ankle trajectory with the corresponding foot orientation. A six-bar linkage was designed to coordinate the joint angles of an RR chain (R denotes a revolute or hinged joint) that models the leg to achieve the desired ankle trajectory. The design is shown to be adjustable to meet a range of trajectories obtained in an individual's normal gait. Control of the foot position is obtained using a cam-driven parallel chain that has the same input as the six-bar linkage. The design of the linkage was carried out using linkage synthesis theory and optimization methods. The result is a one degree-of-freedom system that guides a natural walking movement of the leg and foot. A solid model of the complete device is presented. The results of this research provide a procedure that focuses on the kinematics and mechanical design of a device named the UCI gait mechanism.},
   publisher = {American Society of Mechanical Engineers},
 }
 
@@ -17848,7 +17839,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   url      = {https://doi.org/10.1115/1.1330269},
 }
 
-@Article{loya-jcise,
+@Article{Loya2020,
   author   = {Loya, Amol and Deshpande, Shrinath and Purwar, Anurag},
   journal  = {ASME Journal of Engineering and Science in Medical Diagnostics and Therapy},
   title    = {Machine Learning Driven Individualized Gait Rehabilitation: Classification, Prediction, and Mechanism Design},
@@ -20535,7 +20526,7 @@ PMC4439269[pmcid]},
   url      = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439269/},
 }
 
-@Article{10.1115/1.4046474,
+@Article{Ghosh2020,
   author   = {Ghosh, Shramana and Robson, Nina P. and McCarthy, J. Michael},
   journal  = {Journal of Engineering and Science in Medical Diagnostics and Therapy},
   title    = {{Kinematic Design and Evaluation of a Six-Bar Knee-Ankle-Foot Orthosis}},
@@ -20551,23 +20542,37 @@ PMC4439269[pmcid]},
   url      = {https://doi.org/10.1115/1.4046474},
 }
 
-@Article{10.1115/1.4050150,
+@Article{Zhao2021,
   author   = {Zhao, Ping and Zhang, Yating and Guan, Haiwei and Deng, Xueting and Chen, Haodong},
   journal  = {Journal of Mechanisms and Robotics},
-  title    = {{Design of a Single-Degree-of-Freedom Immersive Rehabilitation Device for Clustered Upper-Limb Motion}},
+  title    = {Design of a Single-Degree-of-Freedom Immersive Rehabilitation Device for Clustered Upper-Limb Motion},
   year     = {2021},
   issn     = {1942-4302},
   month    = {03},
   note     = {031006},
   number   = {3},
   volume   = {13},
-  abstract = {{**Collect data, cluster points such that they become an ordered sequence of points (coupler curve), and solve this using algebraic fitting. ** This paper presents a linkage system designed to guide a natural ankle trajectory with the corresponding foot orientation. A six-bar linkage was designed to coordinate the joint angles of an RR chain (R denotes a revolute or hinged joint) that models the leg to achieve the desired ankle trajectory. The design is shown to be adjustable to meet a range of trajectories obtained in an individual's normal gait. Control of the foot position is obtained using a cam-driven parallel chain that has the same input as the six-bar linkage. The design of the linkage was carried out using linkage synthesis theory and optimization methods. The result is a one degree-of-freedom system that guides a natural walking movement of the leg and foot. A solid model of the complete device is presented. The results of this research provide a procedure that focuses on the kinematics and mechanical design of a device named the UCI gait mechanism.}},
+  abstract = {Mechanical devices such as robots are widely adopted for limb rehabilitation. Due to the
+variety of human body parameters, the rehabilitation motion for different patients usually
+has its individual pattern; hence, we adopt clustering-based machine learning technique
+to find a limited number of motion patterns for upper-limb rehabilitation, so that they
+could represent the large amount of those from people who have various body parameters.
+By using the regression motion of the clustering result as the target, in this article, we seek
+to apply kinematic mapping-based motion synthesis framework to design a 1-degree-offreedom
+(DOF) mechanism, such that it could lead the patients’ upper limb through the
+target motion. Also, considering rehab training generally involves a large amount of repetition
+on a daily basis, this article has developed a rehab system with UNITY3D based on virtual
+reality (VR). The proposed device and system could provide an immersive experience to the
+users, as well as the rehab motion data to the administrative staff for evaluation of users’
+status. The construction of the integrated system and the experimental trial of the prototype
+are presented at the end of this article. [DOI: 10.1115/1.4050150]
+Keywords: mechanism design, mechanism synthesis, medical robotics},
   doi      = {10.1115/1.4050150},
   eprint   = {https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/13/3/031006/6693400/jmr\_13\_3\_031006.pdf},
   url      = {https://doi.org/10.1115/1.4050150},
 }
 
-@Article{10.1115/1.4051788,
+@Article{Yu2021,
   author   = {Yu, Chennan and Ye, Jun and Jia, Jiangming and Zhao, Xiong and Chen, Zhiwei and Chen, Jianneng},
   journal  = {Journal of Mechanisms and Robotics},
   title    = {{Design, Synthesis, and Experiment of Foot-Driven Lower Limb Rehabilitation Mechanisms}},
@@ -20583,10 +20588,10 @@ PMC4439269[pmcid]},
   url      = {https://doi.org/10.1115/1.4051788},
 }
 
-@Article{10.1115/1.4043459,
+@Article{Zhao2019,
   author   = {Zhao, Ping and Zhu, Lihong and Zi, Bin and Li, Xiangyun},
   journal  = {Journal of Mechanisms and Robotics},
-  title    = {{Design of Planar 1-DOF Cam-Linkages for Lower-Limb Rehabilitation Via Kinematic-Mapping Motion Synthesis Framework}},
+  title    = {Design of Planar 1-DOF Cam-Linkages for Lower-Limb Rehabilitation Via Kinematic-Mapping Motion Synthesis Framework},
   year     = {2019},
   issn     = {1942-4302},
   month    = {05},
@@ -20839,7 +20844,7 @@ PMC4439269[pmcid]},
   url       = {https://doi.org/10.3200/JOEB.80.5.275-282},
 }
 
-@Article{Beggs2008,
+{Beggs2008,
   author   = {Beggs, Jeri Mullins and Bantham, John H. and Taylor, Steven},
   journal  = {College Student Journal},
   title    = {Distinguishing the factors influencing college students' choice of major},
@@ -20863,7 +20868,7 @@ PMC4439269[pmcid]},
   pages        = {359--370},
 }
 
-@Proceedings{10.1115/DETC2017-67470,
+@Proceedings{Purwar2017,
   title    = {{A Novel Six-Bar Mechanism for Executing Motion Trajectories of Sit-to-Stand Transformation in a Multifunctional Mobility Assist Device}},
   year     = {2017},
   month    = {08},
@@ -20875,22 +20880,6 @@ PMC4439269[pmcid]},
   doi      = {10.1115/DETC2017-67470},
   eprint   = {https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-pdf/IDETC-CIE2017/58172/V05AT08A060/2474301/v05at08a060-detc2017-67470.pdf},
   url      = {https://doi.org/10.1115/DETC2017-67470},
-}
-
-@Article{10.1115/1.4052442,
-  author   = {Nobari, Amin Heyrani and Chen, Wei and Ahmed, Faez},
-  journal  = {Journal of Mechanical Design},
-  title    = {{Range-Constrained Generative Adversarial Network: Design Synthesis Under Constraints Using Conditional Generative Adversarial Networks}},
-  year     = {2021},
-  issn     = {1050-0472},
-  month    = {10},
-  note     = {021708},
-  number   = {2},
-  volume   = {144},
-  abstract = {{Typical engineering design tasks require the effort to modify designs iteratively until they meet certain constraints, i.e., performance or attribute requirements. Past work has proposed ways to solve the inverse design problem, where desired designs are directly generated from specified requirements, thus avoiding the trial and error process. Among those approaches, the conditional deep generative model shows great potential since (1) it works for complex high-dimensional designs and (2) it can generate multiple alternative designs given any range condition. In this work, we propose a conditional deep generative model, range-constrained generative adversarial network, to achieve automatic design synthesis subject to range constraints. The proposed model addresses the sparse conditioning issue in data-driven inverse design problems by introducing a label-aware self-augmentation approach. We also propose a new uniformity loss to ensure the generated designs evenly cover the given requirement range. Through a real-world example of constrained 3D shape generation, we show that the label-aware self-augmentation leads to an average improvement of 14\\% on the constraint satisfaction for generated 3D shapes, and the uniformity loss leads to a 125\\% average increase on the uniformity of generated shapes’ attributes. This work laid the foundation for data-driven inverse design problems where we consider range constraints and there are sparse regions in the condition space.}},
-  doi      = {10.1115/1.4052442},
-  eprint   = {https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/144/2/021708/6768330/md\_144\_2\_021708.pdf},
-  url      = {https://doi.org/10.1115/1.4052442},
 }
 
 @Article{Nobari2021,
@@ -20907,6 +20896,34 @@ PMC4439269[pmcid]},
   doi      = {10.1115/1.4052442},
   eprint   = {https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/144/2/021708/6768330/md\_144\_2\_021708.pdf},
   url      = {https://doi.org/10.1115/1.4052442},
+}
+
+@Article{Kong2012,
+  author   = {Kong, Kyoungchul and Tomizuka, Masayoshi},
+  journal  = {J. Mechanisms Robotics},
+  title    = {Design of a Rehabilitation Device Based on a Mechanical Link System},
+  year     = {2012},
+  issn     = {1942-4302},
+  month    = jun,
+  number   = {3},
+  volume   = {4},
+  abstract = {Realizing an ideal impedance control system in lower extremity rehabilitation systems is challenged by mechanical impedance of robot hardware. Although many researchers in Robotics and Control Systems have studied to reduce the mechanical impedance of actuators, they have not been able to eliminate the inertia of robot hardware. This paper introduces an alternative design using mechanical links. The mechanical links are driven by one actuator without any complicated servo systems. The design parameters were optimized by simulation studies for the link system to generate the normal walking motion. The device is connected to a human using elastic components, and therefore, the inertia of the link system is not directly imposed on the user. The human legs are guided to follow the motion of the link system by an assistive force generated by the elastic components.},
+  doi      = {10.1115/1.4006875},
+  url      = {https://doi.org/10.1115/1.4006875},
+}
+
+@Article{Asker2019,
+  author   = {Asker, Ahmed and Assal, Samy F. M.},
+  journal  = {J. Mechanisms Robotics},
+  title    = {Development of a Parallel Manipulator-Based Multifunction Mobility Assistive Device},
+  year     = {2019},
+  issn     = {1942-4302},
+  month    = oct,
+  number   = {6},
+  volume   = {11},
+  abstract = {Developing robotic systems for reducing the dependence of elderly on personal assistance is one of the most recent hot topics in robotics research. This paper proposes a multifunction mobility assistive device, which consists of an assisting parallel manipulator carried over an active walker. It is developed to interactively assist in various lower limb activities, namely, sit-to-stand, walking, bed or toilet to wheelchair transfer, and support in the upright position. The assisting parallel manipulator is constructed based on two of the nonconventional structure of the 3-RPR parallel manipulator. This structure offers kinematic decoupling between the position and orientation and free of singularity suitable workspace as well as high rigidity and payload capability. Kinematic, dynamic, and finite element analyses are performed to ensure the functionality of the device. A prototype of the device is constructed to verify the applicability of the device. The prototype is shown to be suitable for assisting subjects to stand up in a natural manner.},
+  doi      = {10.1115/1.4044536},
+  url      = {https://doi.org/10.1115/1.4044536},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
