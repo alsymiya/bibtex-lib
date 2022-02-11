@@ -17049,7 +17049,7 @@ year = {1951}
    publisher={Elsevier}
  }
 
- 
+
 @Article{tsuge2016adjustable,
   author    = {Tsuge, Brandon Y and McCarthy, J Michael},
   journal   = {Journal of Medical Devices},
@@ -17848,7 +17848,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
   url      = {https://doi.org/10.1115/1.1330269},
 }
 
-@Article{loya-jcise,
+@Article{Loya2020,
   author   = {Loya, Amol and Deshpande, Shrinath and Purwar, Anurag},
   journal  = {ASME Journal of Engineering and Science in Medical Diagnostics and Therapy},
   title    = {Machine Learning Driven Individualized Gait Rehabilitation: Classification, Prediction, and Mechanism Design},
@@ -20535,7 +20535,7 @@ PMC4439269[pmcid]},
   url      = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439269/},
 }
 
-@Article{10.1115/1.4046474,
+@Article{Ghosh2020,
   author   = {Ghosh, Shramana and Robson, Nina P. and McCarthy, J. Michael},
   journal  = {Journal of Engineering and Science in Medical Diagnostics and Therapy},
   title    = {{Kinematic Design and Evaluation of a Six-Bar Knee-Ankle-Foot Orthosis}},
@@ -20567,7 +20567,7 @@ PMC4439269[pmcid]},
   url      = {https://doi.org/10.1115/1.4050150},
 }
 
-@Article{10.1115/1.4051788,
+@Article{Yu2021,
   author   = {Yu, Chennan and Ye, Jun and Jia, Jiangming and Zhao, Xiong and Chen, Zhiwei and Chen, Jianneng},
   journal  = {Journal of Mechanisms and Robotics},
   title    = {{Design, Synthesis, and Experiment of Foot-Driven Lower Limb Rehabilitation Mechanisms}},
@@ -20598,6 +20598,7 @@ PMC4439269[pmcid]},
   eprint   = {https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/11/4/041006/6405592/jmr\_11\_4\_041006.pdf},
   url      = {https://doi.org/10.1115/1.4043459},
 }
+
 
 @Article{Pittinsky2015,
   author  = {Pittinsky, Todd and Diamante, Nicole},
@@ -20798,9 +20799,6 @@ PMC4439269[pmcid]},
   type   = {phdthesis},
 }
 
-@Article{,
-}
-
 @Article{Meredith2013,
   author   = {Meredith, Kier and Blanchard, Margaret and Osborne, Jason and Albert, Jennifer},
   journal  = {Research in Science Education},
@@ -20841,5 +20839,7 @@ PMC4439269[pmcid]},
   url       = {https://doi.org/10.3200/JOEB.80.5.275-282},
 }
 
-@Article{Beggs2008,
+{Beggs2008,
   author   = {Beggs, Jeri Mullins and Bantham, John H. and Taylor, Steven},
+  journal  = {College Student Journal},
+  

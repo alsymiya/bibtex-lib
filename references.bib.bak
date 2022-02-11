@@ -17049,7 +17049,7 @@ year = {1951}
    publisher={Elsevier}
  }
 
- 
+
 @Article{tsuge2016adjustable,
   author    = {Tsuge, Brandon Y and McCarthy, J Michael},
   journal   = {Journal of Medical Devices},
@@ -20799,9 +20799,6 @@ PMC4439269[pmcid]},
   type   = {phdthesis},
 }
 
-@Article{,
-}
-
 @Article{Meredith2013,
   author   = {Meredith, Kier and Blanchard, Margaret and Osborne, Jason and Albert, Jennifer},
   journal  = {Research in Science Education},
@@ -20856,6 +20853,7 @@ PMC4439269[pmcid]},
   language = {English},
   url      = {https://link.gale.com/apps/doc/A179348418/AONE?u=nysl_oweb&sid=googleScholar&xid=bad427de},
 
+
 @InProceedings{berndt1994using,
   author       = {Berndt, Donald J and Clifford, James},
   booktitle    = {Proc. of AAAI Workshop on Knowledge Discovery in Databases},
@@ -20893,7 +20891,22 @@ PMC4439269[pmcid]},
   doi      = {10.1115/1.4052442},
   eprint   = {https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/144/2/021708/6768330/md\_144\_2\_021708.pdf},
   url      = {https://doi.org/10.1115/1.4052442},
+}
 
+@Article{Nobari2021,
+  author   = {Nobari, Amin Heyrani and Chen, Wei and Ahmed, Faez},
+  journal  = {Journal of Mechanical Design},
+  title    = {{Range-Constrained Generative Adversarial Network: Design Synthesis Under Constraints Using Conditional Generative Adversarial Networks}},
+  year     = {2021},
+  issn     = {1050-0472},
+  month    = {10},
+  note     = {021708},
+  number   = {2},
+  volume   = {144},
+  abstract = {{Typical engineering design tasks require the effort to modify designs iteratively until they meet certain constraints, i.e., performance or attribute requirements. Past work has proposed ways to solve the inverse design problem, where desired designs are directly generated from specified requirements, thus avoiding the trial and error process. Among those approaches, the conditional deep generative model shows great potential since (1) it works for complex high-dimensional designs and (2) it can generate multiple alternative designs given any range condition. In this work, we propose a conditional deep generative model, range-constrained generative adversarial network, to achieve automatic design synthesis subject to range constraints. The proposed model addresses the sparse conditioning issue in data-driven inverse design problems by introducing a label-aware self-augmentation approach. We also propose a new uniformity loss to ensure the generated designs evenly cover the given requirement range. Through a real-world example of constrained 3D shape generation, we show that the label-aware self-augmentation leads to an average improvement of 14\\% on the constraint satisfaction for generated 3D shapes, and the uniformity loss leads to a 125\\% average increase on the uniformity of generated shapes’ attributes. This work laid the foundation for data-driven inverse design problems where we consider range constraints and there are sparse regions in the condition space.}},
+  doi      = {10.1115/1.4052442},
+  eprint   = {https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/144/2/021708/6768330/md\_144\_2\_021708.pdf},
+  url      = {https://doi.org/10.1115/1.4052442},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
