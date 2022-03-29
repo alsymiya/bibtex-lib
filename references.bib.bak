@@ -20922,6 +20922,21 @@ Keywords: mechanism design, mechanism synthesis, medical robotics},
   url      = {https://doi.org/10.1115/1.4044536},
 }
 
+@Article{kong2019nurture,
+  author   = {Kong, Siu-Cheung and Wang, Yi-Qing},
+  journal  = {Research and Practice in Technology Enhanced Learning},
+  title    = {Nurture interest-driven creators in programmable robotics education: an empirical investigation in primary school settings},
+  year     = {2019},
+  issn     = {1793-7078},
+  number   = {1},
+  pages    = {20},
+  volume   = {14},
+  abstract = {In response to the call from the founders of the Interest-Driven Creator (IDC) theory, this study aimed to explore the relationship of the interest loop with creativity in the context of robotics education. Specifically, we designed a programmable robotics course for primary school students. We attempted to explore in detail how interest loop, i.e., triggering interest, immersing interest, and extending interest, exerts influences on students’ robotics creation. Eight hundred one online questionnaires were collected from students who participated in our designed programmable robotics activities. Confirmatory factor analysis (CFA) was first used for validation of each study variable, and results suggested a good fit of the study variables in terms of convergent and discriminant validity. Then, structural equation modeling (SEM) was conducted for examining the potential relationships between them, and results indicated significant and positive paths from triggering interest to immersing interest, and from immersing interest to extending interest, suggesting the valid theoretical proposition of interest loop of IDC theory. In addition, immersing interest is positively related to robotics creation, which in turn increases the chance of extending interest. Our findings suggested the importance of raising students’ interest in robotics learning such that young students can become life-long interest-driven creators. Implications of the study were discussed at the end of the paper.},
+  doi      = {10.1186/s41039-019-0116-1},
+  refid    = {Kong2019},
+  url      = {https://doi.org/10.1186/s41039-019-0116-1},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
