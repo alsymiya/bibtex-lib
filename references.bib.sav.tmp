@@ -11892,12 +11892,10 @@ splines (mathematics)},
    year = {2008}
 }
 
-@misc{robotics-launchpad,
-   author = {Purwar, A. and Chuang, P.},
-   title = {Robotics Launchpad - A Design-Driven Educational Robotics Framework, \$224,959},
-   month = {February 1 2019 – January 2020},
-   note = {Award No. 1843476 (National Science Foundation)},
-
+@Misc{robotics-launchpad,
+  author = {Purwar, A., Kale, A., and Chuang, P.},
+  month  = {February 1 2019 – January 2020},
+  title  = {Robotics Launchpad - A Design-Driven Educational Robotics Framework, \$1,460,690, Award No. 1843476 (National Science Foundation)},
 }
 
 @article{kinect-purwar,
@@ -11994,10 +11992,8 @@ splines (mathematics)},
 
 @Misc{nsfpurwar,
   author    = {Purwar, A. and Ge, Q. J.},
-  note      = {Award No. 1563413 (National Science Foundation)},
-  title     = {A Computational Framework for Data-Driven Mechanism Design Innovation, \$440,735.00},
-  year      = {2016},
-  number    = {funded},
+  title     = {A Computational Framework for Data-Driven Mechanism Design Innovation, \$534,730, Award No. 1563413 (National Science Foundation)},
+  year      = {2016-2022},
   publisher = {National Science Foundation},
 }
 
@@ -20921,4 +20917,4 @@ Keywords: mechanism design, mechanism synthesis, medical robotics},
   month    = oct,
   number   = {6},
   volume   = {11},
-  abstract = {Developing robotic systems for reducing the dependence of elderly on personal assistance is one of the most recent hot topics in robotics research. This paper proposes a multifunction mobility assistive device, which consists of an assisting parallel manipulator carried over an active walker. It is developed to interactively assist in various lower limb activities, namely, sit-to-stand, walking, bed or toilet to wheelchair transfer, and support in the upright position. The assisting parallel manipulator is constructed based on two of the nonconventional structure of the 3-RPR parallel manipulator. This structure offers kinematic decoupling between the position and orientation and free of singularity suitable workspace as well as high rigidity and payload capability. Kinematic, dynamic, and finite element analyses are performed to ensure the functionality of the
+  abstract = {Developing robotic systems for reducing the dependence of elderly on personal assistance is one of the most recent hot topics in robotics research. This paper proposes a multifunction mobility assistive device, which consists of an assisting parallel manipulator carried over an active walker. It is developed to interactively assist in various lower limb activities, namely, sit-to-stand, walking, bed or toilet to wheelchair transfer, and support in the upright position. The assisting parallel manipulator is constructed based on two of the nonconventional structure of the 3-RPR parallel manipulator. This structure offers kinematic decoupling between the position and orientation and free of singularity suitable workspace as well as high rigidity and payload capability. Kinematic, dynamic, and finite element analyses are performed to ensure the functionality of the device. A prototype of the device is con
