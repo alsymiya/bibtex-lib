@@ -20937,6 +20937,21 @@ Keywords: mechanism design, mechanism synthesis, medical robotics},
   url      = {https://doi.org/10.1186/s41039-019-0116-1},
 }
 
+@Article{Chan2018,
+  author   = {Chan, Tak-Wai and Looi, Chee-Kit and Chen, Wenli and Wong, Lung-Hsiang and Chang, Ben and Liao, Calvin C. Y. and Cheng, Hercy and Chen, Zhi-Hong and Liu, Chen-Chung and Kong, Siu-Cheung and Jeong, Heisawn and Mason, Jon and So, Hyo-Jeong and Murthy, Sahana and Yu, Fu-Yun and Wong, Su Luan and King, Ronnel B. and Gu, Xiaoqing and Wang, Minhong and Wu, Longkai and Huang, Ronghuai and Lam, Rachel and Ogata, Hiroaki},
+  journal  = {Journal of Computers in Education},
+  title    = {Interest-driven creator theory: towards a theory of learning design for Asia in the twenty-first century},
+  year     = {2018},
+  issn     = {2197-9995},
+  number   = {4},
+  pages    = {435--461},
+  volume   = {5},
+  abstract = {Asian education is known for its examination-driven orientation, with the downsides of distorting the processes of learning and teaching, diminishing students’ interest in learning, and failing to nurture twenty-first century competencies among students. As a group of Asian researchers, we have been developing Interest-Driven Creator (IDC) Theory, a design theory based on three anchored concepts, namely interest, creation, and habit. Each of these anchored concepts is represented by a loop composed of three components. In the interest loop, the three components are triggering, immersing, and extending. The components of the creation loop are imitating, combining, and staging. The habit loop consists of cuing environment, routine, and harmony. These three loops are interconnected in various ways, with their characteristics revealed by the design process. We hypothesize that technology-supported learning activities that are designed with reference to IDC Theory will enable students to develop interest in learning, be immersed in the creation process, and, by repeating this process in their daily routines, strengthen habits of creation. Furthermore, students will excel in learning performance, develop twenty-first century competencies, and become lifelong interest-driven creators. To sharpen our understanding and further the development of the theory, we need more discussion and collaborative efforts in the community. Hypotheses arising from this theory can be tested, revised, or refined by setting up and investigating IDC Theory-based experimental sites. By disseminating the framework, foundations, and practices to the various countries and regions of Asia, we hope that it will bring about compelling examples and hence a form of quality education for the twenty-first century, which is an alternative to the examination-driven education system. In this paper, we present an overall introduction to IDC Theory and its history, and discuss some of the steps for advancing it in the future.},
+  doi      = {10.1007/s40692-018-0122-0},
+  refid    = {Chan2018},
+  url      = {https://doi.org/10.1007/s40692-018-0122-0},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
