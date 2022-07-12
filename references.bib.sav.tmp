@@ -10161,18 +10161,15 @@ interpolation},
   keywords = {ejector chair seat height rheumatoid arthritis elderly biomechanical analysis muscular-activity age performance armrests height joint force seat load},
 }
 
-@article{Murray,
-   author = {Murray, A. P. and Pierrot, F. and Dauchez, P. and McCarthy, J. M.},
-   title = {A planar quaternion approach to the kinematic synthesis of a parallel manipulator},
-   journal = {Robotica},
-   volume = {15},
-   pages = {361-365},
-   note = {Article
-Part 4},
-   abstract = {In this paper we present a technique for designing planar parallel manipulators with platforms capable of reaching any number of desired poses. The manipulator consists of a platform connected to ground by RPR chains. The set of positions and orientations available to the end-effector of a general RPR chain is mapped into the space of planar quaternions to obtain a quadratic manifold. The coefficients of this constraint manifold are functions of the locations of the base and platform R joints and the distance between them. Evaluating the constraint manifold at each desired pose and defining the limits on the extension of the P joint yields a set of equations. Solutions of these equations determine chains that contain the desired poses as part of their workspaces. Parallel manipulators that can reach the prescribed workspace are assembled from these chains. An example shows the determination of three RPR chains that form a manipulator able to reach a prescribed workspace.},
-   keywords = {kinematic synthesis, parallel manipulators, RPR chains, quaternion approach
-performance},
-   year = {1997}
+@Article{Murray,
+  author   = {Murray, A. P. and Pierrot, F. and Dauchez, P. and McCarthy, J. M.},
+  journal  = {Robotica},
+  title    = {A planar quaternion approach to the kinematic synthesis of a parallel manipulator},
+  year     = {1997},
+  pages    = {361-365},
+  volume   = {15},
+  abstract = {In this paper we present a technique for designing planar parallel manipulators with platforms capable of reaching any number of desired poses. The manipulator consists of a platform connected to ground by RPR chains. The set of positions and orientations available to the end-effector of a general RPR chain is mapped into the space of planar quaternions to obtain a quadratic manifold. The coefficients of this constraint manifold are functions of the locations of the base and platform R joints and the distance between them. Evaluating the constraint manifold at each desired pose and defining the limits on the extension of the P joint yields a set of equations. Solutions of these equations determine chains that contain the desired poses as part of their workspaces. Parallel manipulators that can reach the prescribed workspace are assembled from these chains. An example shows the determination of three RPR chains that form a manipulator able to reach a prescribed workspace.},
+  keywords = {kinematic synthesis, parallel manipulators, RPR chains, quaternion approach performance},
 }
 
 @inproceedings{snapfit,
@@ -21356,4 +21353,5 @@ Many hospitals and individuals have used the immobile and portable rehabilitatio
   year     = {2018},
   issn     = {1050-0472},
   month    = {07},
-  note     =
+  note     = {092304},
+  number   
