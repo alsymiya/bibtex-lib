@@ -7978,16 +7978,6 @@ development},
    year = {2001}
 }
 
-@article{kramer1975,
-   author = {Kramer, S. N. and Sandor, G. N.},
-   title = {Selective Precision Synthesis - General Method of Optimization for Planar Mechanisms},
-   journal = {Journal of Engineering for Industry-Transactions of the Asme},
-   volume = {97},
-   number = {2},
-   pages = {689-701},
-   year = {1975}
-}
-
 @inproceedings{Krebs,
    author = {Krebs, B. and Wahl, F.M.},
    title = {3D B-Spline Curve Matching for Model Based Object Recognition},
@@ -24457,4 +24447,15 @@ In der Arbeit wird ein Verfahren zur systematischen Ableitung aller möglichen R
   biburl     = {https://dblp.org/rec/journals/corr/VaswaniSPUJGKP17.bib},
   eprint     = {1706.03762},
   eprinttype = {arXiv},
-  timestamp  = {Sat
+  timestamp  = {Sat, 23 Jan 2021 01:20:40 +0100},
+  url        = {http://arxiv.org/abs/1706.03762},
+}
+
+@Article{Roth1965a,
+  author    = {Roth, Bernard},
+  journal   = {Journal of Engineering for Industry},
+  title     = {On the Multiple Generation of Coupler-Curves},
+  year      = {1965},
+  number    = {2},
+  pages     = {177--183},
+  v
