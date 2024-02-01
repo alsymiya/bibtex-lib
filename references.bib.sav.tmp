@@ -19921,7 +19921,7 @@ Dans cet article, une nouvelle méthode pour la synthèse cinématique des méca
 
 @Misc{motiongenpro,
   author = {{Mechanismic Inc.},},
-  title  = {MotionGen Pro},
+  title  = {MotionGen},
   year   = {2022},
   url    = {http://www.motiongen.io},
 }
@@ -24458,4 +24458,4 @@ In der Arbeit wird ein Verfahren zur systematischen Ableitung aller möglichen R
   year      = {1965},
   number    = {2},
   pages     = {177--183},
-  v
+  volum
